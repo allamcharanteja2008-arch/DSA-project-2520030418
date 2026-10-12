@@ -1,0 +1,1501 @@
+id,timestamp,level,service,message
+1,2026-03-01 23:17:15,INFO,payment,user login ok
+2,2026-03-22 23:57:34,INFO,auth,session started
+3,2026-03-01 02:13:14,INFO,gateway,request completed
+4,2026-03-07 22:41:44,ERROR,gateway,timeout waiting for lock
+5,2026-03-15 18:17:51,INFO,auth,user login ok
+6,2026-03-11 08:09:13,WARN,search,slow response
+7,2026-03-13 03:22:54,INFO,search,cache refreshed
+8,2026-03-24 14:34:07,INFO,cart,request completed
+9,2026-03-10 20:39:56,ERROR,search,null pointer exception
+10,2026-03-02 21:14:49,INFO,search,request completed
+11,2026-03-28 03:24:17,INFO,cart,cache refreshed
+12,2026-03-12 11:13:42,INFO,search,request completed
+13,2026-03-21 05:34:46,ERROR,payment,null pointer exception
+14,2026-03-13 08:59:40,WARN,gateway,slow response
+15,2026-03-27 01:14:52,INFO,auth,cache refreshed
+16,2026-03-09 02:13:58,WARN,gateway,disk usage high
+17,2026-03-07 20:31:25,INFO,cart,user login ok
+18,2026-03-05 07:47:35,INFO,gateway,cache refreshed
+19,2026-03-14 18:25:23,ERROR,payment,null pointer exception
+20,2026-03-16 02:48:03,ERROR,auth,null pointer exception
+21,2026-03-26 21:27:38,INFO,auth,session started
+22,2026-03-20 14:33:16,WARN,gateway,slow response
+23,2026-03-22 17:48:17,INFO,search,request completed
+24,2026-03-14 05:29:00,INFO,search,user login ok
+25,2026-03-04 20:19:53,ERROR,gateway,null pointer exception
+26,2026-03-12 05:34:49,INFO,gateway,request completed
+27,2026-03-11 15:01:07,ERROR,search,database unavailable
+28,2026-03-02 07:56:36,INFO,auth,request completed
+29,2026-03-27 02:48:34,WARN,payment,slow response
+30,2026-03-18 05:16:33,WARN,gateway,retry scheduled
+31,2026-03-18 23:44:12,INFO,search,session started
+32,2026-03-15 16:28:07,INFO,payment,user login ok
+33,2026-03-11 00:37:35,INFO,payment,user login ok
+34,2026-03-03 22:40:03,INFO,payment,request completed
+35,2026-03-28 10:04:32,INFO,payment,cache refreshed
+36,2026-03-07 17:08:46,WARN,gateway,disk usage high
+37,2026-03-08 15:51:26,WARN,payment,slow response
+38,2026-03-22 13:22:27,INFO,cart,session started
+39,2026-03-22 20:41:06,INFO,auth,session started
+40,2026-03-26 03:15:12,INFO,payment,session started
+41,2026-03-14 05:17:29,INFO,payment,request completed
+42,2026-03-26 17:06:03,WARN,gateway,slow response
+43,2026-03-25 07:10:26,INFO,cart,session started
+44,2026-03-28 12:57:03,INFO,payment,session started
+45,2026-03-13 08:59:50,INFO,cart,cache refreshed
+46,2026-03-23 23:50:35,WARN,cart,slow response
+47,2026-03-10 06:03:37,INFO,gateway,request completed
+48,2026-03-02 01:37:30,INFO,gateway,user login ok
+49,2026-03-17 02:54:11,INFO,auth,request completed
+50,2026-03-13 03:56:36,INFO,payment,request completed
+51,2026-03-03 13:42:37,ERROR,gateway,database unavailable
+52,2026-03-07 21:45:20,INFO,payment,cache refreshed
+53,2026-03-05 21:41:19,WARN,cart,retry scheduled
+54,2026-03-01 14:39:36,INFO,auth,request completed
+55,2026-03-07 16:16:08,ERROR,search,connection timeout
+56,2026-03-12 09:10:28,INFO,gateway,cache refreshed
+57,2026-03-26 20:33:00,ERROR,gateway,database unavailable
+58,2026-03-05 08:07:56,INFO,auth,user login ok
+59,2026-03-10 19:13:45,INFO,search,user login ok
+60,2026-03-17 15:16:57,INFO,auth,request completed
+61,2026-03-27 08:02:00,WARN,search,slow response
+62,2026-03-06 23:28:35,INFO,cart,request completed
+63,2026-03-03 22:57:09,INFO,gateway,request completed
+64,2026-03-19 17:09:27,INFO,payment,request completed
+65,2026-03-12 01:57:22,INFO,payment,user login ok
+66,2026-03-12 17:56:55,INFO,cart,user login ok
+67,2026-03-28 05:51:51,INFO,payment,session started
+68,2026-03-06 23:59:21,INFO,cart,user login ok
+69,2026-03-06 22:06:24,INFO,auth,session started
+70,2026-03-07 14:22:19,INFO,payment,user login ok
+71,2026-03-22 06:25:21,INFO,search,request completed
+72,2026-03-12 20:32:25,INFO,gateway,cache refreshed
+73,2026-03-04 08:11:37,INFO,search,request completed
+74,2026-03-20 13:22:46,INFO,search,session started
+75,2026-03-17 03:24:57,ERROR,gateway,null pointer exception
+76,2026-03-02 22:27:00,INFO,gateway,user login ok
+77,2026-03-14 02:42:58,INFO,search,cache refreshed
+78,2026-03-24 09:32:19,INFO,cart,cache refreshed
+79,2026-03-23 09:35:08,WARN,payment,retry scheduled
+80,2026-03-22 23:57:11,WARN,gateway,disk usage high
+81,2026-03-13 17:53:00,INFO,search,cache refreshed
+82,2026-03-14 18:38:41,INFO,search,session started
+83,2026-03-15 21:13:32,WARN,cart,disk usage high
+84,2026-03-22 02:18:32,INFO,gateway,cache refreshed
+85,2026-03-27 07:43:19,INFO,payment,user login ok
+86,2026-03-01 01:15:30,INFO,gateway,request completed
+87,2026-03-14 20:36:12,WARN,cart,retry scheduled
+88,2026-03-08 04:41:44,WARN,auth,slow response
+89,2026-03-08 05:51:44,WARN,gateway,retry scheduled
+90,2026-03-18 07:58:54,INFO,auth,session started
+91,2026-03-26 14:42:33,INFO,gateway,cache refreshed
+92,2026-03-20 23:57:32,WARN,cart,disk usage high
+93,2026-03-06 23:55:30,WARN,cart,retry scheduled
+94,2026-03-27 20:17:49,INFO,gateway,session started
+95,2026-03-09 14:04:45,INFO,search,user login ok
+96,2026-03-11 10:57:34,INFO,auth,user login ok
+97,2026-03-08 12:44:09,INFO,payment,request completed
+98,2026-03-14 10:34:29,WARN,cart,slow response
+99,2026-03-27 13:24:57,INFO,gateway,request completed
+100,2026-03-13 15:00:22,ERROR,search,timeout waiting for lock
+101,2026-03-18 23:47:34,WARN,gateway,slow response
+102,2026-03-08 08:27:31,WARN,auth,retry scheduled
+103,2026-03-22 21:51:25,INFO,payment,session started
+104,2026-03-20 17:01:58,INFO,cart,request completed
+105,2026-03-21 13:08:55,INFO,cart,user login ok
+106,2026-03-09 12:20:13,INFO,cart,cache refreshed
+107,2026-03-25 12:17:48,INFO,cart,cache refreshed
+108,2026-03-16 00:47:34,INFO,auth,cache refreshed
+109,2026-03-21 02:49:41,INFO,auth,request completed
+110,2026-03-07 00:39:09,INFO,payment,user login ok
+111,2026-03-22 03:36:13,WARN,cart,disk usage high
+112,2026-03-25 11:10:38,INFO,gateway,request completed
+113,2026-03-10 03:37:01,INFO,search,session started
+114,2026-03-23 06:04:37,WARN,payment,slow response
+115,2026-03-28 21:38:51,INFO,auth,request completed
+116,2026-03-18 13:42:23,INFO,auth,cache refreshed
+117,2026-03-28 13:52:31,INFO,auth,session started
+118,2026-03-21 14:45:09,INFO,cart,user login ok
+119,2026-03-21 08:39:51,ERROR,gateway,timeout waiting for lock
+120,2026-03-14 23:37:17,WARN,search,slow response
+121,2026-03-09 14:15:48,INFO,cart,session started
+122,2026-03-01 15:54:20,INFO,payment,session started
+123,2026-03-12 08:21:17,INFO,gateway,cache refreshed
+124,2026-03-01 16:12:05,ERROR,payment,timeout waiting for lock
+125,2026-03-18 07:44:30,WARN,cart,retry scheduled
+126,2026-03-03 09:14:25,INFO,payment,cache refreshed
+127,2026-03-12 15:35:33,ERROR,search,timeout waiting for lock
+128,2026-03-11 11:44:29,ERROR,search,database unavailable
+129,2026-03-08 03:46:12,INFO,search,request completed
+130,2026-03-25 22:11:12,ERROR,payment,timeout waiting for lock
+131,2026-03-24 18:48:33,INFO,gateway,cache refreshed
+132,2026-03-27 06:18:14,INFO,search,user login ok
+133,2026-03-01 22:34:08,INFO,search,request completed
+134,2026-03-18 09:44:08,INFO,cart,request completed
+135,2026-03-19 09:30:30,INFO,cart,cache refreshed
+136,2026-03-02 08:55:30,INFO,auth,request completed
+137,2026-03-16 02:36:40,WARN,auth,slow response
+138,2026-03-26 18:19:05,INFO,payment,request completed
+139,2026-03-25 13:38:38,ERROR,gateway,null pointer exception
+140,2026-03-13 14:58:28,ERROR,search,timeout waiting for lock
+141,2026-03-19 19:03:39,INFO,auth,user login ok
+142,2026-03-09 21:05:10,INFO,payment,user login ok
+143,2026-03-03 05:00:26,ERROR,cart,timeout waiting for lock
+144,2026-03-02 07:18:45,INFO,search,session started
+145,2026-03-22 07:59:16,INFO,gateway,user login ok
+146,2026-03-04 17:14:41,WARN,payment,retry scheduled
+147,2026-03-03 01:10:50,INFO,search,cache refreshed
+148,2026-03-04 14:44:19,WARN,cart,retry scheduled
+149,2026-03-18 15:28:05,ERROR,gateway,connection timeout
+150,2026-03-24 10:38:16,WARN,auth,slow response
+151,2026-03-22 18:37:01,INFO,search,request completed
+152,2026-03-16 16:41:28,INFO,search,user login ok
+153,2026-03-14 20:52:31,ERROR,auth,timeout waiting for lock
+154,2026-03-14 10:20:42,INFO,auth,user login ok
+155,2026-03-14 22:31:18,INFO,cart,request completed
+156,2026-03-03 10:16:20,WARN,auth,retry scheduled
+157,2026-03-27 00:42:55,ERROR,gateway,timeout waiting for lock
+158,2026-03-02 06:33:23,WARN,gateway,retry scheduled
+159,2026-03-25 01:13:17,WARN,gateway,slow response
+160,2026-03-15 22:31:07,INFO,auth,user login ok
+161,2026-03-10 17:00:35,INFO,cart,request completed
+162,2026-03-27 03:29:07,INFO,payment,session started
+163,2026-03-17 22:17:26,INFO,cart,session started
+164,2026-03-15 17:09:24,INFO,payment,user login ok
+165,2026-03-09 13:21:59,INFO,gateway,cache refreshed
+166,2026-03-10 23:19:53,INFO,gateway,session started
+167,2026-03-15 17:30:22,INFO,search,session started
+168,2026-03-11 06:44:15,WARN,gateway,retry scheduled
+169,2026-03-28 13:02:20,INFO,cart,session started
+170,2026-03-22 20:09:31,WARN,auth,slow response
+171,2026-03-19 10:55:06,ERROR,cart,connection timeout
+172,2026-03-15 00:46:09,ERROR,cart,null pointer exception
+173,2026-03-16 08:21:39,INFO,cart,request completed
+174,2026-03-28 21:54:34,INFO,cart,cache refreshed
+175,2026-03-28 17:02:39,WARN,auth,slow response
+176,2026-03-08 23:05:27,INFO,auth,request completed
+177,2026-03-06 22:19:57,WARN,auth,slow response
+178,2026-03-26 01:18:22,INFO,search,session started
+179,2026-03-08 16:26:36,INFO,payment,user login ok
+180,2026-03-03 19:55:24,INFO,gateway,user login ok
+181,2026-03-19 04:14:29,WARN,search,retry scheduled
+182,2026-03-22 00:57:51,INFO,cart,cache refreshed
+183,2026-03-06 02:28:22,ERROR,gateway,database unavailable
+184,2026-03-23 08:29:54,WARN,search,slow response
+185,2026-03-28 15:06:15,WARN,cart,disk usage high
+186,2026-03-19 09:44:18,INFO,auth,session started
+187,2026-03-01 18:55:43,INFO,auth,session started
+188,2026-03-25 07:38:51,INFO,search,user login ok
+189,2026-03-20 08:43:48,INFO,payment,request completed
+190,2026-03-10 14:02:37,INFO,search,user login ok
+191,2026-03-10 10:47:26,INFO,payment,user login ok
+192,2026-03-26 17:56:23,INFO,gateway,cache refreshed
+193,2026-03-09 15:51:18,INFO,search,request completed
+194,2026-03-03 04:48:14,WARN,cart,disk usage high
+195,2026-03-03 12:00:16,INFO,gateway,request completed
+196,2026-03-12 21:47:43,WARN,search,disk usage high
+197,2026-03-27 20:23:06,WARN,payment,retry scheduled
+198,2026-03-20 17:20:58,INFO,gateway,user login ok
+199,2026-03-21 14:58:44,INFO,search,session started
+200,2026-03-05 01:02:19,INFO,cart,request completed
+201,2026-03-08 17:08:24,INFO,cart,cache refreshed
+202,2026-03-14 18:47:46,ERROR,payment,timeout waiting for lock
+203,2026-03-27 15:39:26,INFO,search,request completed
+204,2026-03-07 14:28:15,INFO,search,request completed
+205,2026-03-18 20:22:03,INFO,cart,cache refreshed
+206,2026-03-04 14:05:42,INFO,payment,request completed
+207,2026-03-26 10:15:08,INFO,gateway,user login ok
+208,2026-03-27 17:13:37,INFO,payment,user login ok
+209,2026-03-25 04:50:57,INFO,gateway,request completed
+210,2026-03-28 04:08:34,INFO,search,user login ok
+211,2026-03-22 00:08:00,INFO,search,user login ok
+212,2026-03-11 00:11:16,ERROR,auth,null pointer exception
+213,2026-03-17 03:47:04,WARN,cart,retry scheduled
+214,2026-03-17 18:06:28,INFO,gateway,user login ok
+215,2026-03-02 23:50:58,ERROR,gateway,database unavailable
+216,2026-03-21 00:03:30,WARN,cart,retry scheduled
+217,2026-03-16 22:58:28,INFO,auth,request completed
+218,2026-03-20 04:04:08,INFO,search,cache refreshed
+219,2026-03-20 16:18:29,WARN,gateway,disk usage high
+220,2026-03-04 22:07:54,WARN,gateway,disk usage high
+221,2026-03-14 14:56:14,INFO,cart,cache refreshed
+222,2026-03-13 13:46:06,WARN,search,retry scheduled
+223,2026-03-22 08:23:09,INFO,cart,request completed
+224,2026-03-27 02:05:27,INFO,auth,cache refreshed
+225,2026-03-18 01:37:35,INFO,gateway,cache refreshed
+226,2026-03-14 11:55:42,INFO,cart,request completed
+227,2026-03-20 09:22:06,INFO,gateway,user login ok
+228,2026-03-22 15:14:54,INFO,auth,cache refreshed
+229,2026-03-12 03:48:17,ERROR,gateway,null pointer exception
+230,2026-03-28 17:49:52,WARN,gateway,disk usage high
+231,2026-03-01 19:59:42,ERROR,search,connection timeout
+232,2026-03-09 22:48:19,INFO,search,cache refreshed
+233,2026-03-06 04:36:42,INFO,cart,request completed
+234,2026-03-24 20:01:05,INFO,gateway,user login ok
+235,2026-03-14 14:21:10,WARN,search,retry scheduled
+236,2026-03-25 18:38:05,INFO,auth,user login ok
+237,2026-03-25 19:03:43,INFO,auth,cache refreshed
+238,2026-03-22 13:31:38,WARN,cart,retry scheduled
+239,2026-03-07 16:07:22,INFO,cart,request completed
+240,2026-03-22 21:37:31,INFO,gateway,cache refreshed
+241,2026-03-08 12:38:03,INFO,auth,user login ok
+242,2026-03-07 04:48:16,INFO,search,cache refreshed
+243,2026-03-01 15:47:27,INFO,payment,user login ok
+244,2026-03-18 22:14:32,WARN,gateway,disk usage high
+245,2026-03-03 12:55:47,INFO,auth,session started
+246,2026-03-15 02:55:20,INFO,gateway,session started
+247,2026-03-13 22:40:26,ERROR,search,connection timeout
+248,2026-03-01 10:10:51,WARN,gateway,retry scheduled
+249,2026-03-03 13:54:06,INFO,payment,session started
+250,2026-03-13 16:05:25,ERROR,search,database unavailable
+251,2026-03-11 05:04:32,INFO,auth,user login ok
+252,2026-03-12 23:52:41,INFO,payment,user login ok
+253,2026-03-05 08:12:11,INFO,gateway,user login ok
+254,2026-03-06 20:31:29,INFO,gateway,session started
+255,2026-03-21 20:39:20,ERROR,search,null pointer exception
+256,2026-03-03 15:28:40,WARN,search,retry scheduled
+257,2026-03-02 11:32:04,ERROR,search,timeout waiting for lock
+258,2026-03-02 01:23:53,WARN,search,slow response
+259,2026-03-20 19:32:24,INFO,cart,request completed
+260,2026-03-26 18:41:12,WARN,search,disk usage high
+261,2026-03-17 04:03:28,WARN,auth,retry scheduled
+262,2026-03-17 20:11:02,INFO,payment,session started
+263,2026-03-17 16:39:10,WARN,search,retry scheduled
+264,2026-03-13 13:49:21,INFO,gateway,request completed
+265,2026-03-03 10:06:35,INFO,cart,cache refreshed
+266,2026-03-24 21:58:38,INFO,payment,cache refreshed
+267,2026-03-19 21:09:58,INFO,search,cache refreshed
+268,2026-03-05 19:45:05,WARN,search,disk usage high
+269,2026-03-21 10:52:08,WARN,gateway,slow response
+270,2026-03-17 11:01:23,WARN,search,slow response
+271,2026-03-11 15:12:14,INFO,payment,user login ok
+272,2026-03-10 03:32:49,INFO,gateway,request completed
+273,2026-03-25 19:08:38,INFO,cart,user login ok
+274,2026-03-06 22:49:39,INFO,payment,session started
+275,2026-03-14 11:43:46,INFO,payment,session started
+276,2026-03-10 23:50:28,ERROR,payment,null pointer exception
+277,2026-03-26 15:57:53,INFO,payment,cache refreshed
+278,2026-03-15 14:49:18,ERROR,cart,timeout waiting for lock
+279,2026-03-27 06:51:38,INFO,payment,cache refreshed
+280,2026-03-21 15:55:23,INFO,gateway,request completed
+281,2026-03-28 03:18:05,ERROR,payment,database unavailable
+282,2026-03-17 04:53:27,WARN,auth,slow response
+283,2026-03-12 00:26:03,WARN,cart,disk usage high
+284,2026-03-08 12:05:23,INFO,payment,request completed
+285,2026-03-04 22:41:21,INFO,payment,user login ok
+286,2026-03-10 15:44:53,INFO,payment,session started
+287,2026-03-20 00:57:05,WARN,auth,retry scheduled
+288,2026-03-27 04:35:46,INFO,gateway,session started
+289,2026-03-25 09:15:19,INFO,auth,request completed
+290,2026-03-14 20:50:39,INFO,cart,request completed
+291,2026-03-27 15:38:34,INFO,auth,user login ok
+292,2026-03-10 13:00:39,INFO,search,user login ok
+293,2026-03-14 05:42:42,ERROR,auth,database unavailable
+294,2026-03-17 17:32:50,INFO,gateway,request completed
+295,2026-03-28 15:02:40,WARN,cart,retry scheduled
+296,2026-03-24 00:22:50,INFO,auth,cache refreshed
+297,2026-03-24 21:40:06,INFO,gateway,cache refreshed
+298,2026-03-02 11:34:21,INFO,payment,session started
+299,2026-03-21 05:51:08,WARN,auth,disk usage high
+300,2026-03-02 09:12:02,WARN,payment,slow response
+301,2026-03-10 16:25:52,INFO,gateway,session started
+302,2026-03-02 20:12:18,INFO,search,request completed
+303,2026-03-09 03:51:23,INFO,cart,session started
+304,2026-03-13 10:11:31,WARN,cart,retry scheduled
+305,2026-03-09 02:46:27,ERROR,auth,timeout waiting for lock
+306,2026-03-27 05:34:18,ERROR,search,connection timeout
+307,2026-03-11 21:18:19,INFO,cart,session started
+308,2026-03-23 14:22:28,INFO,auth,cache refreshed
+309,2026-03-14 08:40:50,ERROR,auth,connection timeout
+310,2026-03-12 16:51:47,WARN,payment,slow response
+311,2026-03-28 19:43:50,INFO,cart,request completed
+312,2026-03-03 07:49:41,INFO,search,cache refreshed
+313,2026-03-19 01:38:09,WARN,cart,retry scheduled
+314,2026-03-15 02:36:08,INFO,gateway,cache refreshed
+315,2026-03-11 20:17:15,WARN,auth,slow response
+316,2026-03-16 16:24:58,INFO,gateway,request completed
+317,2026-03-25 08:45:28,INFO,payment,cache refreshed
+318,2026-03-07 03:08:54,WARN,auth,retry scheduled
+319,2026-03-23 14:05:51,INFO,search,cache refreshed
+320,2026-03-18 17:18:57,INFO,search,user login ok
+321,2026-03-26 11:32:14,INFO,auth,user login ok
+322,2026-03-08 15:01:23,INFO,gateway,cache refreshed
+323,2026-03-26 17:08:39,WARN,auth,slow response
+324,2026-03-13 22:46:30,INFO,gateway,session started
+325,2026-03-27 18:04:08,WARN,search,disk usage high
+326,2026-03-15 14:43:33,INFO,search,user login ok
+327,2026-03-21 18:11:49,ERROR,payment,timeout waiting for lock
+328,2026-03-28 01:53:07,ERROR,gateway,null pointer exception
+329,2026-03-06 05:20:59,INFO,payment,cache refreshed
+330,2026-03-10 02:16:12,ERROR,gateway,database unavailable
+331,2026-03-21 09:39:34,INFO,auth,user login ok
+332,2026-03-19 04:10:42,ERROR,gateway,database unavailable
+333,2026-03-02 00:05:02,ERROR,gateway,database unavailable
+334,2026-03-25 18:26:39,INFO,auth,session started
+335,2026-03-10 20:19:30,ERROR,payment,timeout waiting for lock
+336,2026-03-15 02:44:03,INFO,payment,session started
+337,2026-03-16 14:13:21,WARN,gateway,slow response
+338,2026-03-28 22:20:46,INFO,search,session started
+339,2026-03-25 11:32:35,INFO,auth,cache refreshed
+340,2026-03-15 03:17:28,INFO,payment,user login ok
+341,2026-03-02 09:24:55,INFO,gateway,session started
+342,2026-03-28 05:52:20,INFO,gateway,cache refreshed
+343,2026-03-25 05:31:32,INFO,cart,session started
+344,2026-03-16 00:05:25,INFO,gateway,session started
+345,2026-03-07 18:22:03,INFO,auth,cache refreshed
+346,2026-03-20 20:43:30,WARN,search,disk usage high
+347,2026-03-28 03:27:08,INFO,search,cache refreshed
+348,2026-03-12 01:25:03,WARN,gateway,disk usage high
+349,2026-03-12 17:18:04,INFO,cart,session started
+350,2026-03-09 19:43:39,ERROR,auth,null pointer exception
+351,2026-03-13 11:50:21,INFO,gateway,cache refreshed
+352,2026-03-07 19:32:25,INFO,gateway,request completed
+353,2026-03-02 04:45:21,INFO,cart,session started
+354,2026-03-20 16:08:20,INFO,gateway,cache refreshed
+355,2026-03-13 19:47:53,INFO,search,cache refreshed
+356,2026-03-27 16:34:31,ERROR,gateway,database unavailable
+357,2026-03-27 00:23:21,WARN,auth,retry scheduled
+358,2026-03-10 23:55:44,ERROR,auth,timeout waiting for lock
+359,2026-03-21 18:36:14,INFO,auth,session started
+360,2026-03-17 20:46:39,INFO,cart,user login ok
+361,2026-03-02 18:44:07,INFO,payment,request completed
+362,2026-03-11 13:09:26,WARN,payment,retry scheduled
+363,2026-03-25 19:58:30,ERROR,auth,null pointer exception
+364,2026-03-07 17:20:42,ERROR,cart,timeout waiting for lock
+365,2026-03-06 14:58:34,INFO,search,cache refreshed
+366,2026-03-20 15:12:15,INFO,search,cache refreshed
+367,2026-03-10 09:45:13,INFO,cart,cache refreshed
+368,2026-03-12 17:59:59,WARN,search,retry scheduled
+369,2026-03-19 21:34:24,INFO,cart,cache refreshed
+370,2026-03-10 01:18:45,INFO,auth,cache refreshed
+371,2026-03-21 08:47:30,WARN,payment,slow response
+372,2026-03-09 17:44:17,ERROR,payment,connection timeout
+373,2026-03-24 18:15:15,ERROR,auth,null pointer exception
+374,2026-03-02 03:26:21,INFO,cart,request completed
+375,2026-03-01 17:59:10,INFO,cart,session started
+376,2026-03-21 06:48:18,WARN,search,retry scheduled
+377,2026-03-25 02:41:36,INFO,payment,request completed
+378,2026-03-14 05:59:58,INFO,auth,session started
+379,2026-03-06 23:55:59,WARN,search,slow response
+380,2026-03-10 18:38:06,INFO,search,cache refreshed
+381,2026-03-21 17:33:31,WARN,payment,disk usage high
+382,2026-03-09 06:51:07,WARN,search,slow response
+383,2026-03-21 08:45:11,WARN,auth,disk usage high
+384,2026-03-26 09:36:43,INFO,payment,user login ok
+385,2026-03-28 20:57:25,ERROR,cart,database unavailable
+386,2026-03-13 21:06:11,INFO,payment,session started
+387,2026-03-08 00:16:24,INFO,payment,session started
+388,2026-03-11 09:37:46,INFO,gateway,request completed
+389,2026-03-21 11:44:15,INFO,auth,request completed
+390,2026-03-10 05:25:43,WARN,gateway,disk usage high
+391,2026-03-23 03:40:58,INFO,search,cache refreshed
+392,2026-03-08 07:08:30,ERROR,payment,timeout waiting for lock
+393,2026-03-12 13:44:35,ERROR,cart,null pointer exception
+394,2026-03-22 19:55:50,INFO,auth,session started
+395,2026-03-23 11:04:58,ERROR,gateway,connection timeout
+396,2026-03-27 17:57:32,INFO,payment,user login ok
+397,2026-03-11 16:28:07,INFO,payment,session started
+398,2026-03-17 14:51:03,INFO,cart,user login ok
+399,2026-03-14 14:36:03,ERROR,gateway,timeout waiting for lock
+400,2026-03-24 00:25:16,INFO,auth,user login ok
+401,2026-03-03 01:27:22,ERROR,auth,connection timeout
+402,2026-03-16 01:18:26,INFO,payment,user login ok
+403,2026-03-12 12:28:55,WARN,cart,retry scheduled
+404,2026-03-22 21:55:34,INFO,payment,cache refreshed
+405,2026-03-06 17:25:33,INFO,payment,user login ok
+406,2026-03-25 00:19:29,INFO,gateway,session started
+407,2026-03-13 07:15:29,ERROR,search,null pointer exception
+408,2026-03-07 23:48:07,INFO,auth,session started
+409,2026-03-25 00:15:13,ERROR,auth,connection timeout
+410,2026-03-02 14:38:43,ERROR,auth,null pointer exception
+411,2026-03-13 14:14:34,INFO,payment,request completed
+412,2026-03-17 09:14:52,INFO,gateway,cache refreshed
+413,2026-03-20 21:52:20,ERROR,payment,database unavailable
+414,2026-03-22 16:14:26,INFO,search,cache refreshed
+415,2026-03-18 18:56:47,INFO,payment,session started
+416,2026-03-16 01:22:41,ERROR,cart,database unavailable
+417,2026-03-14 04:19:24,WARN,payment,disk usage high
+418,2026-03-08 07:19:54,WARN,payment,retry scheduled
+419,2026-03-18 13:26:35,INFO,gateway,user login ok
+420,2026-03-08 08:13:21,WARN,auth,retry scheduled
+421,2026-03-03 17:46:53,INFO,payment,request completed
+422,2026-03-13 21:38:38,INFO,auth,request completed
+423,2026-03-26 18:46:42,INFO,gateway,user login ok
+424,2026-03-07 10:19:58,WARN,auth,slow response
+425,2026-03-24 03:47:48,INFO,cart,user login ok
+426,2026-03-23 06:25:58,ERROR,payment,database unavailable
+427,2026-03-13 14:34:41,INFO,search,cache refreshed
+428,2026-03-12 16:56:31,INFO,cart,request completed
+429,2026-03-25 10:58:13,WARN,search,retry scheduled
+430,2026-03-02 18:55:14,WARN,payment,slow response
+431,2026-03-18 18:37:46,INFO,cart,cache refreshed
+432,2026-03-07 10:14:24,INFO,gateway,user login ok
+433,2026-03-18 20:43:21,WARN,search,retry scheduled
+434,2026-03-15 05:46:50,WARN,search,slow response
+435,2026-03-24 17:31:11,INFO,gateway,request completed
+436,2026-03-02 02:52:42,ERROR,auth,connection timeout
+437,2026-03-05 20:14:04,WARN,payment,slow response
+438,2026-03-17 14:23:03,INFO,gateway,session started
+439,2026-03-01 00:34:35,WARN,cart,slow response
+440,2026-03-17 23:17:34,INFO,search,request completed
+441,2026-03-27 22:43:27,ERROR,payment,connection timeout
+442,2026-03-17 04:15:12,INFO,gateway,cache refreshed
+443,2026-03-09 12:05:23,INFO,cart,session started
+444,2026-03-08 22:14:19,ERROR,auth,connection timeout
+445,2026-03-13 12:24:35,INFO,cart,request completed
+446,2026-03-23 05:05:31,INFO,cart,cache refreshed
+447,2026-03-28 03:57:33,ERROR,auth,null pointer exception
+448,2026-03-28 22:56:36,INFO,cart,cache refreshed
+449,2026-03-03 21:59:17,INFO,gateway,request completed
+450,2026-03-28 10:01:13,INFO,gateway,user login ok
+451,2026-03-03 09:10:36,WARN,payment,disk usage high
+452,2026-03-22 17:21:24,WARN,payment,disk usage high
+453,2026-03-17 23:22:03,INFO,auth,session started
+454,2026-03-27 02:21:38,INFO,gateway,session started
+455,2026-03-01 20:17:50,INFO,cart,session started
+456,2026-03-12 17:24:27,INFO,payment,session started
+457,2026-03-25 19:18:51,INFO,payment,request completed
+458,2026-03-09 04:24:45,INFO,payment,session started
+459,2026-03-12 03:05:00,INFO,search,session started
+460,2026-03-25 08:06:08,INFO,auth,user login ok
+461,2026-03-15 17:35:32,WARN,cart,slow response
+462,2026-03-03 11:35:05,INFO,gateway,cache refreshed
+463,2026-03-01 09:26:24,WARN,auth,disk usage high
+464,2026-03-08 18:33:10,ERROR,cart,null pointer exception
+465,2026-03-09 09:17:31,INFO,payment,request completed
+466,2026-03-14 08:26:19,INFO,cart,request completed
+467,2026-03-09 07:46:40,INFO,cart,user login ok
+468,2026-03-04 04:19:00,WARN,cart,retry scheduled
+469,2026-03-13 10:28:21,ERROR,cart,null pointer exception
+470,2026-03-11 19:44:12,INFO,cart,cache refreshed
+471,2026-03-13 10:18:47,INFO,cart,user login ok
+472,2026-03-13 08:52:50,INFO,cart,cache refreshed
+473,2026-03-19 06:37:34,INFO,payment,request completed
+474,2026-03-23 06:28:51,WARN,search,disk usage high
+475,2026-03-27 13:43:31,INFO,payment,cache refreshed
+476,2026-03-09 21:09:45,INFO,cart,session started
+477,2026-03-15 19:30:37,INFO,cart,session started
+478,2026-03-02 11:44:57,ERROR,gateway,connection timeout
+479,2026-03-25 07:42:42,INFO,search,user login ok
+480,2026-03-02 18:41:43,ERROR,cart,database unavailable
+481,2026-03-04 00:06:16,WARN,payment,disk usage high
+482,2026-03-18 18:44:36,ERROR,payment,timeout waiting for lock
+483,2026-03-13 14:49:43,INFO,gateway,user login ok
+484,2026-03-01 15:06:18,INFO,cart,request completed
+485,2026-03-27 23:09:22,INFO,search,cache refreshed
+486,2026-03-26 06:33:30,WARN,search,retry scheduled
+487,2026-03-15 23:44:28,INFO,search,request completed
+488,2026-03-02 22:07:01,INFO,search,request completed
+489,2026-03-24 07:33:11,INFO,gateway,user login ok
+490,2026-03-18 13:29:14,INFO,cart,user login ok
+491,2026-03-21 21:27:25,INFO,auth,user login ok
+492,2026-03-19 13:24:00,WARN,payment,slow response
+493,2026-03-25 22:51:50,INFO,auth,request completed
+494,2026-03-06 11:20:12,ERROR,cart,connection timeout
+495,2026-03-22 15:33:40,INFO,search,session started
+496,2026-03-13 18:07:22,ERROR,search,timeout waiting for lock
+497,2026-03-06 21:45:51,ERROR,search,connection timeout
+498,2026-03-11 03:15:19,INFO,auth,user login ok
+499,2026-03-23 04:32:24,INFO,cart,user login ok
+500,2026-03-13 13:11:31,ERROR,gateway,null pointer exception
+501,2026-03-06 15:18:08,ERROR,payment,database unavailable
+502,2026-03-20 01:55:22,WARN,auth,retry scheduled
+503,2026-03-07 12:35:32,INFO,cart,session started
+504,2026-03-14 22:53:28,WARN,cart,slow response
+505,2026-03-19 00:50:48,INFO,payment,cache refreshed
+506,2026-03-09 07:34:18,INFO,payment,session started
+507,2026-03-24 15:35:32,ERROR,auth,connection timeout
+508,2026-03-25 17:52:23,INFO,gateway,request completed
+509,2026-03-18 06:27:06,WARN,payment,retry scheduled
+510,2026-03-15 08:22:55,INFO,auth,session started
+511,2026-03-25 07:13:51,INFO,gateway,cache refreshed
+512,2026-03-21 13:10:39,ERROR,payment,null pointer exception
+513,2026-03-26 01:36:22,INFO,gateway,cache refreshed
+514,2026-03-18 05:20:45,ERROR,search,database unavailable
+515,2026-03-09 16:57:43,ERROR,auth,null pointer exception
+516,2026-03-02 08:55:41,WARN,payment,disk usage high
+517,2026-03-08 04:45:20,INFO,payment,session started
+518,2026-03-05 18:40:17,WARN,cart,retry scheduled
+519,2026-03-03 20:50:56,WARN,auth,retry scheduled
+520,2026-03-24 08:44:59,ERROR,search,timeout waiting for lock
+521,2026-03-11 18:00:55,WARN,auth,disk usage high
+522,2026-03-21 21:44:22,WARN,auth,disk usage high
+523,2026-03-07 13:52:13,WARN,cart,retry scheduled
+524,2026-03-27 09:21:35,INFO,gateway,user login ok
+525,2026-03-28 15:50:21,ERROR,auth,connection timeout
+526,2026-03-21 14:01:07,INFO,payment,session started
+527,2026-03-01 13:12:44,WARN,payment,disk usage high
+528,2026-03-06 08:05:41,INFO,search,cache refreshed
+529,2026-03-12 21:57:41,INFO,payment,request completed
+530,2026-03-21 09:46:44,WARN,payment,retry scheduled
+531,2026-03-23 03:00:13,INFO,cart,request completed
+532,2026-03-19 07:33:43,INFO,cart,request completed
+533,2026-03-23 10:52:07,INFO,cart,user login ok
+534,2026-03-03 07:24:05,WARN,auth,slow response
+535,2026-03-12 09:08:24,INFO,payment,user login ok
+536,2026-03-17 18:00:39,INFO,payment,session started
+537,2026-03-24 06:40:47,INFO,payment,session started
+538,2026-03-22 14:55:13,ERROR,auth,connection timeout
+539,2026-03-25 03:37:46,INFO,cart,cache refreshed
+540,2026-03-11 04:15:17,WARN,auth,slow response
+541,2026-03-20 19:46:38,ERROR,search,connection timeout
+542,2026-03-07 16:38:32,INFO,payment,session started
+543,2026-03-21 01:50:57,INFO,payment,session started
+544,2026-03-04 07:31:40,WARN,gateway,slow response
+545,2026-03-01 11:59:20,ERROR,payment,timeout waiting for lock
+546,2026-03-14 11:34:43,ERROR,payment,timeout waiting for lock
+547,2026-03-01 18:04:00,INFO,search,user login ok
+548,2026-03-02 12:32:18,INFO,gateway,session started
+549,2026-03-23 12:05:40,WARN,gateway,disk usage high
+550,2026-03-05 08:05:19,ERROR,auth,null pointer exception
+551,2026-03-18 10:25:37,INFO,auth,cache refreshed
+552,2026-03-24 07:03:15,WARN,auth,retry scheduled
+553,2026-03-15 19:38:03,INFO,search,user login ok
+554,2026-03-01 22:08:44,INFO,auth,user login ok
+555,2026-03-12 16:33:50,WARN,search,slow response
+556,2026-03-05 23:49:55,INFO,search,request completed
+557,2026-03-11 13:17:33,INFO,auth,cache refreshed
+558,2026-03-21 02:31:29,ERROR,gateway,database unavailable
+559,2026-03-16 18:10:23,INFO,payment,cache refreshed
+560,2026-03-19 21:46:07,INFO,payment,request completed
+561,2026-03-28 00:15:02,INFO,cart,cache refreshed
+562,2026-03-05 05:59:54,WARN,auth,disk usage high
+563,2026-03-08 10:15:26,WARN,search,retry scheduled
+564,2026-03-19 11:07:32,INFO,auth,user login ok
+565,2026-03-26 16:02:25,INFO,auth,session started
+566,2026-03-25 09:20:05,INFO,gateway,session started
+567,2026-03-12 06:18:36,INFO,search,user login ok
+568,2026-03-12 18:31:49,WARN,payment,disk usage high
+569,2026-03-25 07:09:00,ERROR,cart,connection timeout
+570,2026-03-18 11:40:53,INFO,auth,cache refreshed
+571,2026-03-25 21:24:54,INFO,search,request completed
+572,2026-03-17 07:26:31,INFO,auth,user login ok
+573,2026-03-03 01:58:14,INFO,gateway,session started
+574,2026-03-15 23:05:37,INFO,auth,user login ok
+575,2026-03-03 18:36:03,WARN,cart,disk usage high
+576,2026-03-08 09:16:54,INFO,search,session started
+577,2026-03-11 14:17:14,INFO,auth,user login ok
+578,2026-03-25 18:06:09,INFO,auth,user login ok
+579,2026-03-15 10:26:07,WARN,gateway,retry scheduled
+580,2026-03-15 09:29:16,INFO,auth,request completed
+581,2026-03-26 21:19:52,INFO,gateway,request completed
+582,2026-03-27 10:09:05,INFO,payment,cache refreshed
+583,2026-03-17 01:43:19,WARN,search,slow response
+584,2026-03-13 14:35:47,INFO,gateway,user login ok
+585,2026-03-15 03:51:50,INFO,payment,request completed
+586,2026-03-02 07:08:12,INFO,cart,cache refreshed
+587,2026-03-19 18:16:58,INFO,auth,request completed
+588,2026-03-07 20:28:51,INFO,payment,request completed
+589,2026-03-04 01:29:03,INFO,payment,session started
+590,2026-03-16 00:24:43,WARN,cart,slow response
+591,2026-03-07 05:17:17,INFO,cart,user login ok
+592,2026-03-20 19:39:15,INFO,search,session started
+593,2026-03-18 15:03:05,WARN,search,retry scheduled
+594,2026-03-14 06:41:56,INFO,gateway,user login ok
+595,2026-03-26 00:24:50,ERROR,search,timeout waiting for lock
+596,2026-03-26 15:22:58,ERROR,gateway,database unavailable
+597,2026-03-09 05:01:20,WARN,gateway,slow response
+598,2026-03-26 08:03:51,INFO,cart,cache refreshed
+599,2026-03-08 05:06:15,ERROR,payment,database unavailable
+600,2026-03-27 23:03:48,ERROR,payment,timeout waiting for lock
+601,2026-03-27 05:11:15,INFO,gateway,cache refreshed
+602,2026-03-19 00:45:44,INFO,search,user login ok
+603,2026-03-07 15:34:19,ERROR,payment,timeout waiting for lock
+604,2026-03-03 01:14:38,INFO,payment,request completed
+605,2026-03-16 00:21:58,ERROR,gateway,null pointer exception
+606,2026-03-11 22:11:58,INFO,search,request completed
+607,2026-03-05 18:45:58,INFO,payment,request completed
+608,2026-03-28 11:04:23,ERROR,cart,connection timeout
+609,2026-03-10 10:08:10,INFO,cart,session started
+610,2026-03-06 22:35:44,INFO,gateway,cache refreshed
+611,2026-03-22 18:52:11,INFO,cart,cache refreshed
+612,2026-03-05 05:46:00,INFO,gateway,session started
+613,2026-03-02 05:38:20,ERROR,gateway,null pointer exception
+614,2026-03-04 15:09:21,ERROR,auth,null pointer exception
+615,2026-03-11 05:40:56,INFO,auth,cache refreshed
+616,2026-03-01 08:13:15,WARN,auth,retry scheduled
+617,2026-03-26 03:46:00,INFO,auth,session started
+618,2026-03-24 13:10:56,WARN,cart,retry scheduled
+619,2026-03-12 17:24:06,WARN,cart,disk usage high
+620,2026-03-06 14:04:51,INFO,auth,cache refreshed
+621,2026-03-11 08:06:04,INFO,search,user login ok
+622,2026-03-06 23:04:35,WARN,auth,retry scheduled
+623,2026-03-20 15:45:01,ERROR,cart,null pointer exception
+624,2026-03-14 05:03:06,ERROR,search,null pointer exception
+625,2026-03-14 22:35:46,INFO,gateway,cache refreshed
+626,2026-03-10 07:06:03,INFO,cart,session started
+627,2026-03-02 11:00:27,INFO,auth,cache refreshed
+628,2026-03-16 06:06:01,ERROR,payment,null pointer exception
+629,2026-03-03 15:54:07,INFO,search,session started
+630,2026-03-16 21:16:05,WARN,gateway,retry scheduled
+631,2026-03-12 12:23:11,INFO,cart,request completed
+632,2026-03-15 14:16:14,INFO,search,request completed
+633,2026-03-25 22:42:06,INFO,auth,cache refreshed
+634,2026-03-14 18:14:35,ERROR,auth,timeout waiting for lock
+635,2026-03-14 17:43:55,ERROR,cart,null pointer exception
+636,2026-03-10 02:25:57,WARN,auth,disk usage high
+637,2026-03-17 18:43:39,ERROR,payment,connection timeout
+638,2026-03-06 05:13:51,WARN,payment,slow response
+639,2026-03-14 02:43:27,INFO,payment,user login ok
+640,2026-03-09 10:58:46,ERROR,auth,connection timeout
+641,2026-03-18 12:35:20,WARN,search,disk usage high
+642,2026-03-28 00:50:44,WARN,gateway,disk usage high
+643,2026-03-26 13:07:26,ERROR,payment,null pointer exception
+644,2026-03-19 18:48:06,ERROR,auth,connection timeout
+645,2026-03-28 17:56:22,INFO,cart,cache refreshed
+646,2026-03-21 15:36:38,WARN,cart,slow response
+647,2026-03-09 12:09:39,INFO,gateway,session started
+648,2026-03-13 10:44:15,INFO,auth,session started
+649,2026-03-12 00:21:52,INFO,search,cache refreshed
+650,2026-03-27 15:54:44,INFO,auth,user login ok
+651,2026-03-10 23:28:49,INFO,search,cache refreshed
+652,2026-03-20 20:05:12,WARN,cart,slow response
+653,2026-03-24 15:48:33,WARN,search,slow response
+654,2026-03-26 05:04:19,ERROR,gateway,timeout waiting for lock
+655,2026-03-25 16:56:36,INFO,auth,user login ok
+656,2026-03-27 06:53:03,INFO,payment,request completed
+657,2026-03-02 11:45:12,WARN,search,retry scheduled
+658,2026-03-17 12:40:59,WARN,auth,disk usage high
+659,2026-03-08 11:31:38,INFO,cart,user login ok
+660,2026-03-19 17:22:22,WARN,payment,retry scheduled
+661,2026-03-10 00:24:03,INFO,payment,user login ok
+662,2026-03-21 07:43:13,INFO,search,session started
+663,2026-03-01 21:00:30,ERROR,payment,null pointer exception
+664,2026-03-26 00:14:16,ERROR,gateway,database unavailable
+665,2026-03-14 12:54:22,INFO,cart,cache refreshed
+666,2026-03-15 09:43:33,INFO,gateway,session started
+667,2026-03-04 00:32:42,ERROR,search,database unavailable
+668,2026-03-22 03:30:04,INFO,search,cache refreshed
+669,2026-03-28 08:16:41,INFO,search,user login ok
+670,2026-03-17 07:57:03,INFO,gateway,session started
+671,2026-03-22 04:46:01,INFO,cart,cache refreshed
+672,2026-03-14 12:24:47,INFO,auth,user login ok
+673,2026-03-24 22:14:43,INFO,gateway,session started
+674,2026-03-17 09:54:10,INFO,gateway,user login ok
+675,2026-03-04 15:08:47,INFO,search,user login ok
+676,2026-03-21 02:14:22,INFO,payment,cache refreshed
+677,2026-03-26 10:23:16,WARN,gateway,retry scheduled
+678,2026-03-28 03:30:03,WARN,gateway,disk usage high
+679,2026-03-03 15:56:12,ERROR,gateway,connection timeout
+680,2026-03-17 09:26:03,WARN,payment,slow response
+681,2026-03-11 13:36:57,INFO,cart,user login ok
+682,2026-03-28 22:11:49,INFO,auth,session started
+683,2026-03-21 05:20:40,INFO,auth,request completed
+684,2026-03-09 06:48:49,WARN,payment,disk usage high
+685,2026-03-16 02:08:39,INFO,cart,session started
+686,2026-03-14 15:24:00,WARN,auth,disk usage high
+687,2026-03-24 11:00:57,INFO,search,user login ok
+688,2026-03-22 00:40:46,INFO,payment,user login ok
+689,2026-03-10 04:06:24,INFO,gateway,cache refreshed
+690,2026-03-03 01:19:18,INFO,cart,cache refreshed
+691,2026-03-22 04:21:57,WARN,cart,retry scheduled
+692,2026-03-06 12:01:14,INFO,payment,user login ok
+693,2026-03-24 00:37:32,INFO,payment,request completed
+694,2026-03-23 20:50:02,INFO,cart,cache refreshed
+695,2026-03-20 01:38:03,ERROR,auth,connection timeout
+696,2026-03-23 03:26:28,INFO,cart,request completed
+697,2026-03-09 15:44:09,ERROR,payment,connection timeout
+698,2026-03-14 21:06:42,INFO,gateway,cache refreshed
+699,2026-03-20 22:08:26,ERROR,auth,connection timeout
+700,2026-03-04 03:31:12,INFO,gateway,user login ok
+701,2026-03-27 16:12:22,INFO,cart,cache refreshed
+702,2026-03-02 17:31:58,INFO,payment,session started
+703,2026-03-08 00:00:42,INFO,auth,request completed
+704,2026-03-22 15:09:05,ERROR,gateway,connection timeout
+705,2026-03-09 20:14:29,INFO,search,cache refreshed
+706,2026-03-02 03:52:11,WARN,auth,retry scheduled
+707,2026-03-26 21:20:27,INFO,auth,request completed
+708,2026-03-01 04:42:41,INFO,payment,cache refreshed
+709,2026-03-15 19:17:56,INFO,auth,cache refreshed
+710,2026-03-06 03:25:25,INFO,cart,cache refreshed
+711,2026-03-23 15:51:26,WARN,payment,slow response
+712,2026-03-23 23:03:54,INFO,payment,request completed
+713,2026-03-19 15:51:36,WARN,cart,slow response
+714,2026-03-13 11:39:01,ERROR,payment,timeout waiting for lock
+715,2026-03-04 13:28:02,WARN,auth,retry scheduled
+716,2026-03-01 22:55:43,INFO,gateway,user login ok
+717,2026-03-17 16:44:44,INFO,gateway,request completed
+718,2026-03-22 23:15:30,WARN,search,disk usage high
+719,2026-03-05 17:57:39,WARN,auth,slow response
+720,2026-03-17 15:54:31,INFO,payment,request completed
+721,2026-03-11 07:21:17,WARN,auth,disk usage high
+722,2026-03-18 20:24:25,INFO,payment,request completed
+723,2026-03-15 18:28:05,WARN,cart,retry scheduled
+724,2026-03-04 15:47:41,INFO,auth,request completed
+725,2026-03-14 01:35:35,WARN,auth,slow response
+726,2026-03-20 20:19:56,ERROR,gateway,null pointer exception
+727,2026-03-11 11:52:03,WARN,payment,retry scheduled
+728,2026-03-18 19:38:30,INFO,search,session started
+729,2026-03-04 21:14:00,INFO,search,cache refreshed
+730,2026-03-18 16:23:44,INFO,auth,request completed
+731,2026-03-16 04:52:45,INFO,cart,request completed
+732,2026-03-20 06:12:07,INFO,cart,user login ok
+733,2026-03-27 06:45:21,WARN,auth,retry scheduled
+734,2026-03-21 21:37:07,INFO,cart,session started
+735,2026-03-17 04:31:00,ERROR,gateway,connection timeout
+736,2026-03-14 18:30:59,ERROR,gateway,null pointer exception
+737,2026-03-06 23:52:08,ERROR,auth,timeout waiting for lock
+738,2026-03-20 10:32:56,ERROR,cart,timeout waiting for lock
+739,2026-03-23 07:17:25,ERROR,search,database unavailable
+740,2026-03-26 04:08:26,WARN,gateway,disk usage high
+741,2026-03-10 22:35:55,ERROR,search,null pointer exception
+742,2026-03-07 19:45:18,INFO,search,user login ok
+743,2026-03-17 17:44:40,INFO,search,request completed
+744,2026-03-18 15:37:36,INFO,cart,cache refreshed
+745,2026-03-26 00:33:06,WARN,auth,retry scheduled
+746,2026-03-02 21:03:12,INFO,search,user login ok
+747,2026-03-22 08:09:53,INFO,auth,cache refreshed
+748,2026-03-25 17:02:22,INFO,cart,request completed
+749,2026-03-28 21:47:35,ERROR,payment,timeout waiting for lock
+750,2026-03-17 22:18:44,INFO,auth,session started
+751,2026-03-14 21:20:35,WARN,auth,slow response
+752,2026-03-07 19:55:49,INFO,cart,user login ok
+753,2026-03-25 18:34:47,INFO,gateway,user login ok
+754,2026-03-10 14:11:43,INFO,auth,user login ok
+755,2026-03-24 16:07:24,INFO,auth,session started
+756,2026-03-18 08:08:10,INFO,gateway,cache refreshed
+757,2026-03-11 14:45:59,INFO,payment,request completed
+758,2026-03-11 19:03:49,INFO,gateway,cache refreshed
+759,2026-03-26 18:35:22,WARN,auth,disk usage high
+760,2026-03-17 07:11:33,INFO,auth,user login ok
+761,2026-03-18 17:25:05,WARN,search,slow response
+762,2026-03-22 10:21:23,INFO,search,user login ok
+763,2026-03-17 15:35:52,ERROR,auth,connection timeout
+764,2026-03-15 07:57:41,INFO,gateway,user login ok
+765,2026-03-22 10:24:58,INFO,auth,session started
+766,2026-03-18 23:18:01,INFO,gateway,cache refreshed
+767,2026-03-26 16:28:31,ERROR,auth,database unavailable
+768,2026-03-11 16:05:06,INFO,payment,request completed
+769,2026-03-07 21:40:49,INFO,payment,session started
+770,2026-03-07 17:53:44,INFO,cart,request completed
+771,2026-03-01 14:45:21,INFO,auth,request completed
+772,2026-03-02 05:50:16,INFO,gateway,request completed
+773,2026-03-27 07:58:16,ERROR,cart,timeout waiting for lock
+774,2026-03-21 12:27:20,WARN,auth,retry scheduled
+775,2026-03-18 00:41:46,INFO,gateway,request completed
+776,2026-03-02 22:54:04,ERROR,search,connection timeout
+777,2026-03-26 21:19:38,INFO,auth,cache refreshed
+778,2026-03-13 12:52:42,WARN,auth,retry scheduled
+779,2026-03-18 07:08:47,INFO,cart,cache refreshed
+780,2026-03-10 21:56:58,INFO,search,request completed
+781,2026-03-28 17:09:07,ERROR,auth,connection timeout
+782,2026-03-20 12:34:35,ERROR,auth,database unavailable
+783,2026-03-24 23:57:46,INFO,search,user login ok
+784,2026-03-21 16:09:10,WARN,payment,slow response
+785,2026-03-27 08:12:07,ERROR,payment,connection timeout
+786,2026-03-15 20:35:04,ERROR,search,connection timeout
+787,2026-03-04 06:46:37,INFO,cart,cache refreshed
+788,2026-03-05 21:41:15,INFO,auth,cache refreshed
+789,2026-03-03 06:20:31,ERROR,cart,database unavailable
+790,2026-03-22 09:44:37,ERROR,payment,database unavailable
+791,2026-03-14 05:00:20,INFO,payment,user login ok
+792,2026-03-09 11:08:43,WARN,search,retry scheduled
+793,2026-03-15 11:49:19,WARN,cart,disk usage high
+794,2026-03-06 20:38:05,INFO,search,user login ok
+795,2026-03-07 08:46:56,ERROR,auth,connection timeout
+796,2026-03-28 16:40:01,INFO,gateway,session started
+797,2026-03-07 01:35:16,ERROR,gateway,timeout waiting for lock
+798,2026-03-12 12:14:57,INFO,gateway,cache refreshed
+799,2026-03-15 16:32:05,INFO,cart,cache refreshed
+800,2026-03-01 21:15:54,ERROR,gateway,null pointer exception
+801,2026-03-05 14:10:11,ERROR,gateway,null pointer exception
+802,2026-03-12 01:14:48,WARN,cart,slow response
+803,2026-03-09 11:14:02,INFO,payment,cache refreshed
+804,2026-03-16 14:56:02,WARN,auth,disk usage high
+805,2026-03-04 22:33:40,INFO,search,cache refreshed
+806,2026-03-18 18:11:24,ERROR,cart,database unavailable
+807,2026-03-21 02:33:16,ERROR,cart,null pointer exception
+808,2026-03-13 11:52:55,ERROR,search,timeout waiting for lock
+809,2026-03-20 00:32:56,WARN,payment,retry scheduled
+810,2026-03-08 02:32:41,INFO,search,user login ok
+811,2026-03-06 05:23:38,INFO,auth,user login ok
+812,2026-03-26 10:46:07,WARN,cart,disk usage high
+813,2026-03-16 06:37:10,WARN,cart,slow response
+814,2026-03-02 04:36:37,INFO,payment,user login ok
+815,2026-03-02 18:09:03,ERROR,payment,database unavailable
+816,2026-03-17 12:38:36,INFO,auth,cache refreshed
+817,2026-03-07 14:38:30,INFO,cart,user login ok
+818,2026-03-27 13:38:09,INFO,gateway,user login ok
+819,2026-03-22 16:16:10,ERROR,search,timeout waiting for lock
+820,2026-03-19 02:14:24,ERROR,cart,null pointer exception
+821,2026-03-01 06:33:55,INFO,gateway,session started
+822,2026-03-20 03:11:30,INFO,gateway,request completed
+823,2026-03-17 03:05:30,ERROR,payment,connection timeout
+824,2026-03-17 13:23:55,WARN,auth,disk usage high
+825,2026-03-14 07:51:30,ERROR,cart,database unavailable
+826,2026-03-26 23:58:48,ERROR,gateway,connection timeout
+827,2026-03-05 08:30:49,WARN,payment,slow response
+828,2026-03-20 17:26:16,INFO,payment,request completed
+829,2026-03-19 16:07:33,INFO,auth,session started
+830,2026-03-23 10:26:23,INFO,auth,user login ok
+831,2026-03-21 18:16:16,WARN,gateway,retry scheduled
+832,2026-03-12 19:17:43,ERROR,cart,null pointer exception
+833,2026-03-18 17:30:11,WARN,search,disk usage high
+834,2026-03-16 08:19:36,ERROR,search,timeout waiting for lock
+835,2026-03-28 21:07:47,INFO,payment,session started
+836,2026-03-04 06:32:25,INFO,search,request completed
+837,2026-03-13 20:00:51,INFO,auth,user login ok
+838,2026-03-20 13:05:04,WARN,search,slow response
+839,2026-03-03 19:02:46,INFO,cart,session started
+840,2026-03-21 16:18:45,ERROR,gateway,connection timeout
+841,2026-03-21 15:28:00,INFO,payment,cache refreshed
+842,2026-03-02 19:32:33,INFO,payment,user login ok
+843,2026-03-12 07:41:00,INFO,payment,request completed
+844,2026-03-25 12:22:42,INFO,cart,session started
+845,2026-03-07 16:00:47,ERROR,auth,connection timeout
+846,2026-03-10 23:53:35,ERROR,gateway,database unavailable
+847,2026-03-27 08:14:38,INFO,payment,session started
+848,2026-03-19 00:16:11,WARN,cart,disk usage high
+849,2026-03-18 02:32:18,INFO,search,request completed
+850,2026-03-09 17:52:50,ERROR,gateway,database unavailable
+851,2026-03-13 18:30:49,WARN,payment,retry scheduled
+852,2026-03-22 14:57:37,WARN,auth,retry scheduled
+853,2026-03-09 02:24:40,INFO,payment,user login ok
+854,2026-03-14 11:33:34,INFO,auth,cache refreshed
+855,2026-03-10 02:25:43,INFO,search,request completed
+856,2026-03-06 15:20:22,ERROR,payment,database unavailable
+857,2026-03-24 21:59:58,INFO,payment,session started
+858,2026-03-08 23:15:55,INFO,search,user login ok
+859,2026-03-07 07:53:39,INFO,search,user login ok
+860,2026-03-04 02:43:42,INFO,cart,request completed
+861,2026-03-02 15:23:39,ERROR,search,timeout waiting for lock
+862,2026-03-28 08:31:11,ERROR,gateway,database unavailable
+863,2026-03-08 18:08:03,WARN,gateway,retry scheduled
+864,2026-03-18 01:32:22,WARN,cart,disk usage high
+865,2026-03-15 03:44:33,INFO,cart,cache refreshed
+866,2026-03-01 21:13:24,INFO,gateway,request completed
+867,2026-03-12 19:55:16,INFO,payment,cache refreshed
+868,2026-03-09 15:39:21,INFO,search,user login ok
+869,2026-03-14 06:26:44,WARN,search,retry scheduled
+870,2026-03-09 14:11:36,WARN,payment,disk usage high
+871,2026-03-27 03:46:17,INFO,payment,session started
+872,2026-03-07 04:51:47,WARN,payment,retry scheduled
+873,2026-03-06 13:31:08,INFO,gateway,cache refreshed
+874,2026-03-10 08:35:54,WARN,gateway,slow response
+875,2026-03-04 22:10:03,WARN,payment,retry scheduled
+876,2026-03-27 20:06:28,WARN,search,retry scheduled
+877,2026-03-12 17:35:59,INFO,search,cache refreshed
+878,2026-03-14 03:22:55,INFO,gateway,user login ok
+879,2026-03-19 20:41:34,ERROR,payment,database unavailable
+880,2026-03-11 21:32:31,INFO,cart,request completed
+881,2026-03-20 09:29:40,WARN,payment,slow response
+882,2026-03-14 20:39:36,INFO,cart,request completed
+883,2026-03-06 10:14:20,INFO,search,cache refreshed
+884,2026-03-20 20:25:17,INFO,cart,cache refreshed
+885,2026-03-17 14:26:10,ERROR,payment,connection timeout
+886,2026-03-24 07:42:16,INFO,auth,user login ok
+887,2026-03-13 03:06:04,INFO,cart,request completed
+888,2026-03-25 12:33:48,INFO,auth,request completed
+889,2026-03-20 04:05:41,INFO,cart,cache refreshed
+890,2026-03-08 23:18:28,INFO,payment,user login ok
+891,2026-03-27 05:01:02,ERROR,search,database unavailable
+892,2026-03-15 17:59:17,WARN,gateway,retry scheduled
+893,2026-03-23 17:11:37,INFO,gateway,session started
+894,2026-03-14 16:40:40,ERROR,gateway,database unavailable
+895,2026-03-16 17:14:51,INFO,auth,session started
+896,2026-03-12 13:16:09,INFO,search,request completed
+897,2026-03-17 04:22:18,INFO,cart,request completed
+898,2026-03-25 15:19:00,WARN,cart,retry scheduled
+899,2026-03-08 00:35:23,ERROR,payment,timeout waiting for lock
+900,2026-03-14 12:15:10,ERROR,cart,timeout waiting for lock
+901,2026-03-09 02:27:40,INFO,payment,cache refreshed
+902,2026-03-21 23:34:51,INFO,search,session started
+903,2026-03-28 02:11:08,INFO,search,request completed
+904,2026-03-20 14:17:44,WARN,gateway,retry scheduled
+905,2026-03-11 00:09:03,INFO,gateway,request completed
+906,2026-03-04 09:17:08,INFO,cart,request completed
+907,2026-03-03 04:00:31,INFO,payment,cache refreshed
+908,2026-03-10 15:23:29,WARN,auth,retry scheduled
+909,2026-03-27 04:03:17,INFO,cart,request completed
+910,2026-03-16 05:12:57,ERROR,search,timeout waiting for lock
+911,2026-03-04 22:15:24,INFO,cart,user login ok
+912,2026-03-07 14:47:49,INFO,auth,user login ok
+913,2026-03-13 21:19:59,WARN,search,slow response
+914,2026-03-24 17:33:07,INFO,search,session started
+915,2026-03-07 11:56:03,INFO,payment,request completed
+916,2026-03-21 13:20:00,INFO,payment,cache refreshed
+917,2026-03-04 12:50:15,ERROR,auth,connection timeout
+918,2026-03-26 22:30:44,ERROR,gateway,null pointer exception
+919,2026-03-25 02:15:10,INFO,cart,request completed
+920,2026-03-11 20:03:03,ERROR,search,null pointer exception
+921,2026-03-26 03:08:31,ERROR,payment,database unavailable
+922,2026-03-26 20:48:22,ERROR,cart,null pointer exception
+923,2026-03-23 12:22:46,INFO,payment,cache refreshed
+924,2026-03-16 22:28:35,INFO,search,session started
+925,2026-03-19 05:34:22,INFO,search,session started
+926,2026-03-28 19:58:55,INFO,gateway,user login ok
+927,2026-03-17 04:28:18,INFO,search,cache refreshed
+928,2026-03-01 20:32:24,WARN,payment,slow response
+929,2026-03-28 11:49:39,ERROR,payment,database unavailable
+930,2026-03-22 17:52:24,INFO,payment,session started
+931,2026-03-05 19:18:20,ERROR,cart,database unavailable
+932,2026-03-04 16:42:04,INFO,auth,user login ok
+933,2026-03-28 01:12:06,INFO,cart,user login ok
+934,2026-03-02 18:41:53,INFO,cart,session started
+935,2026-03-20 22:37:16,ERROR,auth,database unavailable
+936,2026-03-20 22:04:00,INFO,payment,session started
+937,2026-03-15 20:03:23,INFO,gateway,session started
+938,2026-03-26 22:03:52,INFO,gateway,cache refreshed
+939,2026-03-02 23:04:53,ERROR,search,connection timeout
+940,2026-03-17 03:06:46,INFO,payment,session started
+941,2026-03-07 16:42:15,INFO,gateway,user login ok
+942,2026-03-24 17:26:47,ERROR,auth,database unavailable
+943,2026-03-23 21:27:56,WARN,auth,slow response
+944,2026-03-18 12:32:21,INFO,payment,session started
+945,2026-03-11 17:20:54,INFO,search,session started
+946,2026-03-27 23:20:38,WARN,payment,disk usage high
+947,2026-03-07 12:49:35,ERROR,search,database unavailable
+948,2026-03-15 12:00:46,WARN,auth,retry scheduled
+949,2026-03-01 16:08:56,ERROR,search,connection timeout
+950,2026-03-08 06:54:20,INFO,auth,cache refreshed
+951,2026-03-17 17:36:59,ERROR,gateway,null pointer exception
+952,2026-03-02 14:22:09,INFO,payment,cache refreshed
+953,2026-03-19 07:14:16,INFO,search,request completed
+954,2026-03-13 18:58:13,ERROR,auth,database unavailable
+955,2026-03-06 15:52:57,WARN,gateway,slow response
+956,2026-03-21 09:02:46,ERROR,gateway,timeout waiting for lock
+957,2026-03-25 01:58:49,INFO,search,cache refreshed
+958,2026-03-14 03:55:49,WARN,payment,disk usage high
+959,2026-03-01 20:49:40,ERROR,cart,connection timeout
+960,2026-03-17 01:20:34,INFO,gateway,user login ok
+961,2026-03-17 22:14:09,INFO,auth,session started
+962,2026-03-25 19:36:32,WARN,auth,slow response
+963,2026-03-10 12:09:08,WARN,search,slow response
+964,2026-03-19 23:03:35,WARN,cart,retry scheduled
+965,2026-03-13 16:27:49,INFO,payment,user login ok
+966,2026-03-18 06:31:25,WARN,gateway,slow response
+967,2026-03-20 23:33:15,ERROR,payment,connection timeout
+968,2026-03-25 13:20:43,INFO,gateway,request completed
+969,2026-03-22 13:27:23,INFO,search,user login ok
+970,2026-03-12 19:41:01,INFO,search,user login ok
+971,2026-03-20 14:39:09,INFO,cart,request completed
+972,2026-03-07 21:23:09,INFO,auth,request completed
+973,2026-03-08 19:59:09,INFO,search,request completed
+974,2026-03-23 03:19:28,INFO,cart,request completed
+975,2026-03-07 23:34:13,INFO,payment,cache refreshed
+976,2026-03-16 19:46:09,ERROR,auth,timeout waiting for lock
+977,2026-03-22 16:02:16,ERROR,payment,connection timeout
+978,2026-03-07 22:39:17,INFO,auth,session started
+979,2026-03-03 12:42:17,INFO,search,request completed
+980,2026-03-10 20:24:14,INFO,cart,request completed
+981,2026-03-16 19:34:05,INFO,payment,user login ok
+982,2026-03-15 17:59:45,ERROR,auth,connection timeout
+983,2026-03-17 09:21:31,INFO,cart,user login ok
+984,2026-03-12 21:22:22,INFO,search,user login ok
+985,2026-03-09 01:40:16,ERROR,cart,connection timeout
+986,2026-03-09 07:09:21,ERROR,cart,null pointer exception
+987,2026-03-24 12:33:43,INFO,gateway,user login ok
+988,2026-03-08 18:09:27,WARN,search,disk usage high
+989,2026-03-15 17:08:13,INFO,payment,user login ok
+990,2026-03-10 22:45:57,INFO,gateway,user login ok
+991,2026-03-25 04:41:59,WARN,gateway,slow response
+992,2026-03-03 17:34:46,INFO,auth,user login ok
+993,2026-03-27 04:46:01,INFO,search,session started
+994,2026-03-10 14:47:59,WARN,search,slow response
+995,2026-03-04 04:11:01,INFO,gateway,cache refreshed
+996,2026-03-19 19:14:38,ERROR,payment,null pointer exception
+997,2026-03-12 02:44:49,INFO,cart,user login ok
+998,2026-03-28 19:30:45,ERROR,search,null pointer exception
+999,2026-03-16 15:08:10,WARN,payment,slow response
+1000,2026-03-14 00:59:17,INFO,cart,user login ok
+1001,2026-03-25 06:04:11,INFO,cart,session started
+1002,2026-03-28 14:56:15,INFO,cart,session started
+1003,2026-03-20 23:52:24,INFO,search,session started
+1004,2026-03-24 18:38:34,ERROR,gateway,connection timeout
+1005,2026-03-04 14:29:52,ERROR,auth,null pointer exception
+1006,2026-03-18 12:47:02,ERROR,gateway,timeout waiting for lock
+1007,2026-03-25 20:03:12,ERROR,search,timeout waiting for lock
+1008,2026-03-10 09:29:10,WARN,cart,retry scheduled
+1009,2026-03-02 22:33:57,ERROR,payment,timeout waiting for lock
+1010,2026-03-03 23:32:07,WARN,payment,disk usage high
+1011,2026-03-05 12:26:20,ERROR,cart,connection timeout
+1012,2026-03-15 18:57:45,INFO,payment,session started
+1013,2026-03-09 10:44:41,INFO,payment,request completed
+1014,2026-03-04 22:28:40,INFO,search,request completed
+1015,2026-03-23 12:46:50,ERROR,gateway,null pointer exception
+1016,2026-03-18 12:02:49,WARN,payment,retry scheduled
+1017,2026-03-28 21:55:09,ERROR,payment,null pointer exception
+1018,2026-03-25 22:03:26,INFO,search,cache refreshed
+1019,2026-03-10 20:11:07,WARN,payment,slow response
+1020,2026-03-20 08:00:29,INFO,cart,session started
+1021,2026-03-26 00:38:56,ERROR,cart,null pointer exception
+1022,2026-03-19 21:30:29,INFO,cart,session started
+1023,2026-03-20 19:00:15,INFO,gateway,cache refreshed
+1024,2026-03-21 17:52:52,ERROR,payment,connection timeout
+1025,2026-03-05 01:41:22,INFO,auth,user login ok
+1026,2026-03-22 18:53:38,INFO,search,cache refreshed
+1027,2026-03-02 03:26:11,INFO,payment,cache refreshed
+1028,2026-03-22 22:44:38,ERROR,gateway,null pointer exception
+1029,2026-03-24 18:23:59,WARN,auth,slow response
+1030,2026-03-11 11:57:24,INFO,auth,session started
+1031,2026-03-03 09:30:08,ERROR,auth,database unavailable
+1032,2026-03-17 13:33:13,INFO,payment,request completed
+1033,2026-03-19 23:40:33,INFO,auth,session started
+1034,2026-03-26 22:18:27,ERROR,gateway,database unavailable
+1035,2026-03-17 18:39:22,INFO,payment,session started
+1036,2026-03-24 20:31:31,ERROR,payment,null pointer exception
+1037,2026-03-07 00:07:01,INFO,cart,request completed
+1038,2026-03-26 19:26:26,INFO,auth,cache refreshed
+1039,2026-03-18 20:13:00,INFO,payment,cache refreshed
+1040,2026-03-26 02:19:19,INFO,gateway,cache refreshed
+1041,2026-03-04 21:21:21,INFO,cart,request completed
+1042,2026-03-07 10:53:21,INFO,cart,session started
+1043,2026-03-21 04:30:09,INFO,cart,cache refreshed
+1044,2026-03-26 13:59:47,WARN,auth,disk usage high
+1045,2026-03-19 23:43:20,INFO,gateway,request completed
+1046,2026-03-19 21:21:51,INFO,search,request completed
+1047,2026-03-09 00:21:24,INFO,gateway,user login ok
+1048,2026-03-20 12:11:38,ERROR,auth,database unavailable
+1049,2026-03-23 01:17:26,INFO,auth,session started
+1050,2026-03-12 14:53:19,INFO,payment,cache refreshed
+1051,2026-03-04 11:50:02,INFO,payment,request completed
+1052,2026-03-17 00:51:30,WARN,gateway,slow response
+1053,2026-03-11 15:46:55,INFO,gateway,cache refreshed
+1054,2026-03-05 03:52:33,INFO,payment,user login ok
+1055,2026-03-15 12:45:55,INFO,gateway,request completed
+1056,2026-03-10 01:43:54,INFO,gateway,request completed
+1057,2026-03-15 01:06:33,INFO,search,request completed
+1058,2026-03-25 09:40:57,ERROR,payment,database unavailable
+1059,2026-03-07 09:17:34,INFO,search,session started
+1060,2026-03-09 04:10:17,INFO,auth,request completed
+1061,2026-03-18 16:06:13,ERROR,gateway,database unavailable
+1062,2026-03-11 08:09:45,ERROR,search,null pointer exception
+1063,2026-03-03 09:39:57,INFO,search,session started
+1064,2026-03-05 00:30:57,INFO,auth,request completed
+1065,2026-03-02 02:27:25,WARN,payment,disk usage high
+1066,2026-03-19 20:53:44,ERROR,cart,database unavailable
+1067,2026-03-11 06:45:48,INFO,gateway,request completed
+1068,2026-03-19 04:05:52,WARN,cart,slow response
+1069,2026-03-10 21:41:45,WARN,cart,retry scheduled
+1070,2026-03-08 04:55:57,INFO,gateway,cache refreshed
+1071,2026-03-13 05:44:58,INFO,search,cache refreshed
+1072,2026-03-16 00:04:30,WARN,auth,retry scheduled
+1073,2026-03-15 05:18:49,WARN,search,disk usage high
+1074,2026-03-05 16:06:25,ERROR,auth,database unavailable
+1075,2026-03-21 02:50:19,ERROR,gateway,timeout waiting for lock
+1076,2026-03-19 13:15:39,WARN,payment,disk usage high
+1077,2026-03-16 12:04:21,INFO,payment,session started
+1078,2026-03-19 10:34:44,WARN,payment,slow response
+1079,2026-03-24 22:36:53,INFO,cart,request completed
+1080,2026-03-20 14:20:35,ERROR,auth,timeout waiting for lock
+1081,2026-03-10 12:04:38,INFO,auth,session started
+1082,2026-03-16 20:42:03,INFO,auth,user login ok
+1083,2026-03-19 20:51:00,INFO,payment,user login ok
+1084,2026-03-18 09:24:39,WARN,gateway,retry scheduled
+1085,2026-03-07 21:56:20,INFO,search,cache refreshed
+1086,2026-03-23 11:05:37,WARN,auth,disk usage high
+1087,2026-03-13 04:54:18,ERROR,auth,database unavailable
+1088,2026-03-02 00:45:35,ERROR,search,connection timeout
+1089,2026-03-28 00:15:27,INFO,gateway,session started
+1090,2026-03-23 12:25:24,INFO,cart,user login ok
+1091,2026-03-16 04:12:35,INFO,cart,cache refreshed
+1092,2026-03-05 09:55:42,WARN,payment,slow response
+1093,2026-03-03 20:01:09,INFO,cart,session started
+1094,2026-03-03 04:41:51,INFO,cart,session started
+1095,2026-03-14 19:11:29,ERROR,gateway,timeout waiting for lock
+1096,2026-03-27 14:24:22,ERROR,payment,null pointer exception
+1097,2026-03-20 00:36:31,WARN,payment,disk usage high
+1098,2026-03-09 13:59:34,ERROR,gateway,database unavailable
+1099,2026-03-02 18:30:45,INFO,search,request completed
+1100,2026-03-16 22:05:09,ERROR,gateway,database unavailable
+1101,2026-03-17 02:33:56,WARN,gateway,slow response
+1102,2026-03-16 20:47:42,INFO,auth,cache refreshed
+1103,2026-03-02 10:34:49,ERROR,auth,timeout waiting for lock
+1104,2026-03-17 15:36:46,WARN,search,retry scheduled
+1105,2026-03-26 09:18:10,INFO,auth,cache refreshed
+1106,2026-03-09 01:40:30,ERROR,gateway,null pointer exception
+1107,2026-03-02 21:18:51,ERROR,gateway,connection timeout
+1108,2026-03-16 02:08:32,INFO,auth,cache refreshed
+1109,2026-03-05 19:17:17,INFO,search,request completed
+1110,2026-03-20 05:58:37,INFO,payment,session started
+1111,2026-03-26 05:16:50,INFO,payment,session started
+1112,2026-03-26 16:55:02,INFO,search,request completed
+1113,2026-03-20 04:53:31,INFO,cart,session started
+1114,2026-03-22 14:46:40,INFO,payment,user login ok
+1115,2026-03-24 11:03:41,ERROR,search,connection timeout
+1116,2026-03-06 14:25:30,INFO,search,session started
+1117,2026-03-08 12:43:45,ERROR,cart,timeout waiting for lock
+1118,2026-03-05 16:55:27,INFO,auth,cache refreshed
+1119,2026-03-13 21:20:33,WARN,auth,slow response
+1120,2026-03-21 11:54:27,ERROR,gateway,database unavailable
+1121,2026-03-09 08:51:06,INFO,search,session started
+1122,2026-03-25 21:47:15,WARN,gateway,slow response
+1123,2026-03-11 21:44:11,ERROR,search,connection timeout
+1124,2026-03-27 02:00:26,INFO,auth,request completed
+1125,2026-03-12 07:46:18,WARN,search,slow response
+1126,2026-03-01 19:05:03,INFO,gateway,user login ok
+1127,2026-03-21 03:45:07,ERROR,auth,null pointer exception
+1128,2026-03-22 20:36:51,WARN,payment,slow response
+1129,2026-03-09 09:29:42,INFO,auth,session started
+1130,2026-03-25 13:44:57,INFO,search,cache refreshed
+1131,2026-03-25 02:17:49,INFO,auth,session started
+1132,2026-03-11 01:16:52,WARN,search,slow response
+1133,2026-03-03 15:59:12,WARN,gateway,retry scheduled
+1134,2026-03-21 15:06:09,INFO,gateway,session started
+1135,2026-03-20 20:06:58,INFO,cart,cache refreshed
+1136,2026-03-02 02:04:36,INFO,search,session started
+1137,2026-03-16 04:41:40,INFO,auth,request completed
+1138,2026-03-09 04:44:21,WARN,cart,disk usage high
+1139,2026-03-17 22:49:31,INFO,cart,session started
+1140,2026-03-28 23:49:51,WARN,auth,disk usage high
+1141,2026-03-01 12:44:52,INFO,cart,request completed
+1142,2026-03-18 11:21:43,ERROR,search,timeout waiting for lock
+1143,2026-03-21 20:05:23,INFO,gateway,cache refreshed
+1144,2026-03-27 14:48:49,INFO,search,user login ok
+1145,2026-03-18 01:24:42,INFO,payment,cache refreshed
+1146,2026-03-04 20:44:22,WARN,cart,slow response
+1147,2026-03-24 06:08:02,WARN,payment,slow response
+1148,2026-03-08 15:24:04,ERROR,gateway,database unavailable
+1149,2026-03-18 14:01:02,WARN,search,slow response
+1150,2026-03-26 23:02:25,INFO,auth,user login ok
+1151,2026-03-15 21:55:55,ERROR,gateway,null pointer exception
+1152,2026-03-08 02:02:47,ERROR,payment,timeout waiting for lock
+1153,2026-03-16 19:02:15,INFO,payment,request completed
+1154,2026-03-21 01:57:19,INFO,auth,session started
+1155,2026-03-06 18:04:52,ERROR,auth,connection timeout
+1156,2026-03-20 19:14:04,WARN,payment,retry scheduled
+1157,2026-03-26 23:43:25,INFO,search,request completed
+1158,2026-03-18 04:20:53,ERROR,payment,connection timeout
+1159,2026-03-06 10:04:07,ERROR,search,null pointer exception
+1160,2026-03-06 22:23:35,WARN,payment,retry scheduled
+1161,2026-03-19 01:08:06,INFO,gateway,session started
+1162,2026-03-01 15:05:00,INFO,auth,user login ok
+1163,2026-03-23 20:37:56,INFO,search,session started
+1164,2026-03-23 04:13:09,WARN,search,disk usage high
+1165,2026-03-14 07:11:39,WARN,auth,disk usage high
+1166,2026-03-23 15:39:05,INFO,search,cache refreshed
+1167,2026-03-01 17:15:12,WARN,auth,disk usage high
+1168,2026-03-20 11:55:48,INFO,gateway,user login ok
+1169,2026-03-25 20:42:13,WARN,search,slow response
+1170,2026-03-04 04:43:54,INFO,cart,session started
+1171,2026-03-06 21:59:02,INFO,auth,cache refreshed
+1172,2026-03-07 13:16:21,INFO,gateway,session started
+1173,2026-03-04 23:03:59,INFO,gateway,user login ok
+1174,2026-03-26 00:31:32,INFO,auth,request completed
+1175,2026-03-24 14:37:37,INFO,search,session started
+1176,2026-03-24 21:57:20,INFO,payment,request completed
+1177,2026-03-08 03:15:47,INFO,cart,user login ok
+1178,2026-03-08 02:30:37,WARN,cart,slow response
+1179,2026-03-05 06:59:39,WARN,cart,slow response
+1180,2026-03-12 04:29:46,WARN,payment,disk usage high
+1181,2026-03-09 06:21:08,INFO,auth,request completed
+1182,2026-03-05 03:54:29,INFO,cart,session started
+1183,2026-03-25 10:14:56,INFO,search,user login ok
+1184,2026-03-06 18:35:54,ERROR,payment,connection timeout
+1185,2026-03-28 16:31:55,WARN,payment,disk usage high
+1186,2026-03-27 14:17:00,WARN,cart,disk usage high
+1187,2026-03-08 10:27:37,INFO,payment,user login ok
+1188,2026-03-01 13:02:02,ERROR,cart,connection timeout
+1189,2026-03-17 12:30:51,WARN,auth,retry scheduled
+1190,2026-03-08 02:35:48,WARN,auth,disk usage high
+1191,2026-03-07 04:22:18,WARN,payment,disk usage high
+1192,2026-03-01 15:42:19,INFO,payment,session started
+1193,2026-03-24 18:01:29,ERROR,cart,null pointer exception
+1194,2026-03-06 11:40:29,WARN,auth,disk usage high
+1195,2026-03-13 22:21:33,INFO,auth,cache refreshed
+1196,2026-03-25 08:44:39,WARN,gateway,disk usage high
+1197,2026-03-26 21:05:39,INFO,search,request completed
+1198,2026-03-22 11:56:03,ERROR,auth,timeout waiting for lock
+1199,2026-03-15 19:02:23,INFO,search,user login ok
+1200,2026-03-23 02:35:45,ERROR,payment,null pointer exception
+1201,2026-03-08 17:07:41,INFO,cart,user login ok
+1202,2026-03-11 11:57:17,INFO,gateway,session started
+1203,2026-03-02 02:23:22,INFO,cart,session started
+1204,2026-03-17 03:30:45,ERROR,gateway,database unavailable
+1205,2026-03-20 11:51:43,WARN,auth,slow response
+1206,2026-03-03 02:25:57,WARN,payment,retry scheduled
+1207,2026-03-04 05:17:07,INFO,payment,session started
+1208,2026-03-28 06:33:40,INFO,auth,cache refreshed
+1209,2026-03-22 17:59:08,WARN,cart,retry scheduled
+1210,2026-03-15 23:41:01,WARN,search,slow response
+1211,2026-03-01 07:53:33,INFO,search,session started
+1212,2026-03-11 20:41:50,ERROR,search,timeout waiting for lock
+1213,2026-03-22 22:33:53,ERROR,gateway,timeout waiting for lock
+1214,2026-03-10 18:08:57,WARN,search,slow response
+1215,2026-03-08 15:23:18,INFO,auth,user login ok
+1216,2026-03-10 14:10:39,INFO,payment,cache refreshed
+1217,2026-03-06 22:44:57,INFO,payment,user login ok
+1218,2026-03-04 01:20:36,INFO,payment,session started
+1219,2026-03-12 05:13:35,INFO,auth,cache refreshed
+1220,2026-03-05 11:28:34,INFO,payment,cache refreshed
+1221,2026-03-01 12:59:31,INFO,payment,session started
+1222,2026-03-05 00:47:34,INFO,gateway,cache refreshed
+1223,2026-03-16 09:48:36,INFO,payment,session started
+1224,2026-03-23 03:46:30,INFO,auth,user login ok
+1225,2026-03-04 09:01:25,ERROR,gateway,null pointer exception
+1226,2026-03-12 02:20:03,WARN,gateway,disk usage high
+1227,2026-03-19 16:14:50,INFO,search,user login ok
+1228,2026-03-03 17:54:28,INFO,auth,session started
+1229,2026-03-16 10:38:38,INFO,gateway,request completed
+1230,2026-03-13 04:45:54,INFO,cart,cache refreshed
+1231,2026-03-12 00:18:22,WARN,search,retry scheduled
+1232,2026-03-28 17:05:13,WARN,cart,disk usage high
+1233,2026-03-26 14:18:10,WARN,cart,disk usage high
+1234,2026-03-05 18:38:05,WARN,payment,slow response
+1235,2026-03-16 16:21:04,INFO,gateway,session started
+1236,2026-03-01 13:40:58,INFO,search,session started
+1237,2026-03-18 14:45:36,INFO,payment,user login ok
+1238,2026-03-27 12:18:35,INFO,cart,request completed
+1239,2026-03-27 18:19:31,INFO,gateway,session started
+1240,2026-03-01 00:09:16,INFO,search,session started
+1241,2026-03-21 21:57:18,INFO,cart,user login ok
+1242,2026-03-23 20:15:01,WARN,auth,retry scheduled
+1243,2026-03-03 19:47:23,WARN,gateway,retry scheduled
+1244,2026-03-14 08:40:43,ERROR,cart,connection timeout
+1245,2026-03-17 23:36:01,INFO,search,user login ok
+1246,2026-03-02 04:20:29,ERROR,payment,database unavailable
+1247,2026-03-02 08:23:26,INFO,search,request completed
+1248,2026-03-10 16:40:59,INFO,auth,user login ok
+1249,2026-03-25 03:38:48,INFO,payment,cache refreshed
+1250,2026-03-27 21:51:19,INFO,search,cache refreshed
+1251,2026-03-18 18:22:52,INFO,payment,request completed
+1252,2026-03-17 09:23:49,INFO,cart,session started
+1253,2026-03-06 03:13:09,INFO,gateway,user login ok
+1254,2026-03-26 17:39:44,INFO,gateway,request completed
+1255,2026-03-15 02:07:52,WARN,payment,slow response
+1256,2026-03-12 09:44:23,WARN,payment,retry scheduled
+1257,2026-03-17 10:11:45,ERROR,search,connection timeout
+1258,2026-03-08 04:54:44,INFO,payment,user login ok
+1259,2026-03-05 06:08:05,INFO,cart,request completed
+1260,2026-03-01 15:48:27,INFO,auth,user login ok
+1261,2026-03-02 21:32:37,INFO,auth,session started
+1262,2026-03-09 01:04:19,INFO,auth,request completed
+1263,2026-03-20 06:37:57,INFO,payment,user login ok
+1264,2026-03-01 02:09:54,INFO,search,cache refreshed
+1265,2026-03-06 16:49:46,INFO,gateway,user login ok
+1266,2026-03-19 02:06:52,ERROR,gateway,connection timeout
+1267,2026-03-07 22:12:18,ERROR,payment,connection timeout
+1268,2026-03-07 16:54:45,INFO,cart,cache refreshed
+1269,2026-03-06 14:43:06,ERROR,payment,database unavailable
+1270,2026-03-14 06:32:14,WARN,cart,slow response
+1271,2026-03-04 14:07:33,INFO,payment,session started
+1272,2026-03-23 09:35:46,INFO,auth,request completed
+1273,2026-03-16 03:24:18,INFO,cart,cache refreshed
+1274,2026-03-08 17:26:18,WARN,cart,slow response
+1275,2026-03-27 15:43:23,INFO,payment,request completed
+1276,2026-03-22 03:25:28,WARN,gateway,disk usage high
+1277,2026-03-04 04:25:25,INFO,gateway,request completed
+1278,2026-03-03 11:12:21,INFO,payment,session started
+1279,2026-03-08 13:46:31,INFO,search,cache refreshed
+1280,2026-03-12 15:42:38,WARN,cart,retry scheduled
+1281,2026-03-09 04:49:29,ERROR,auth,connection timeout
+1282,2026-03-16 15:14:40,INFO,payment,request completed
+1283,2026-03-24 01:53:04,INFO,cart,request completed
+1284,2026-03-13 19:43:20,INFO,payment,cache refreshed
+1285,2026-03-20 03:48:04,ERROR,gateway,timeout waiting for lock
+1286,2026-03-07 09:42:31,WARN,cart,disk usage high
+1287,2026-03-18 10:51:55,INFO,gateway,request completed
+1288,2026-03-14 03:24:28,INFO,search,session started
+1289,2026-03-15 01:02:11,WARN,gateway,disk usage high
+1290,2026-03-23 05:31:27,INFO,payment,cache refreshed
+1291,2026-03-16 03:36:43,WARN,cart,disk usage high
+1292,2026-03-22 17:36:30,ERROR,cart,null pointer exception
+1293,2026-03-02 12:16:31,ERROR,gateway,timeout waiting for lock
+1294,2026-03-22 11:49:18,ERROR,search,connection timeout
+1295,2026-03-19 01:08:53,INFO,search,cache refreshed
+1296,2026-03-01 20:21:24,ERROR,auth,timeout waiting for lock
+1297,2026-03-12 13:22:03,INFO,payment,user login ok
+1298,2026-03-21 09:37:05,INFO,auth,cache refreshed
+1299,2026-03-11 05:01:34,INFO,search,request completed
+1300,2026-03-22 13:36:32,WARN,cart,retry scheduled
+1301,2026-03-23 15:37:01,INFO,search,session started
+1302,2026-03-13 10:36:06,ERROR,cart,connection timeout
+1303,2026-03-11 15:32:51,INFO,search,user login ok
+1304,2026-03-10 11:27:12,ERROR,cart,connection timeout
+1305,2026-03-07 09:16:03,ERROR,search,timeout waiting for lock
+1306,2026-03-20 23:05:45,INFO,gateway,request completed
+1307,2026-03-11 08:04:36,ERROR,gateway,timeout waiting for lock
+1308,2026-03-07 11:50:04,WARN,search,disk usage high
+1309,2026-03-14 21:34:20,INFO,payment,session started
+1310,2026-03-09 19:32:29,WARN,gateway,slow response
+1311,2026-03-21 22:33:55,INFO,payment,session started
+1312,2026-03-22 23:29:17,INFO,gateway,session started
+1313,2026-03-24 20:03:33,ERROR,payment,database unavailable
+1314,2026-03-05 07:09:47,WARN,search,retry scheduled
+1315,2026-03-11 02:40:13,WARN,cart,retry scheduled
+1316,2026-03-21 05:16:43,INFO,gateway,user login ok
+1317,2026-03-08 03:09:12,WARN,auth,slow response
+1318,2026-03-15 15:35:27,INFO,cart,request completed
+1319,2026-03-06 08:08:01,INFO,search,cache refreshed
+1320,2026-03-06 20:54:02,ERROR,cart,connection timeout
+1321,2026-03-28 02:20:38,INFO,search,request completed
+1322,2026-03-12 21:42:56,WARN,auth,retry scheduled
+1323,2026-03-08 03:36:47,INFO,gateway,request completed
+1324,2026-03-22 18:49:59,ERROR,gateway,database unavailable
+1325,2026-03-03 07:38:07,WARN,search,retry scheduled
+1326,2026-03-24 12:51:47,ERROR,payment,timeout waiting for lock
+1327,2026-03-05 03:11:13,INFO,search,session started
+1328,2026-03-09 18:03:31,WARN,gateway,retry scheduled
+1329,2026-03-11 17:27:30,INFO,payment,cache refreshed
+1330,2026-03-12 15:45:23,INFO,search,request completed
+1331,2026-03-02 23:42:51,ERROR,auth,null pointer exception
+1332,2026-03-18 12:19:40,INFO,search,request completed
+1333,2026-03-28 07:54:28,ERROR,cart,connection timeout
+1334,2026-03-09 09:05:59,WARN,payment,retry scheduled
+1335,2026-03-28 05:58:28,INFO,search,session started
+1336,2026-03-09 02:52:49,INFO,cart,session started
+1337,2026-03-27 10:45:27,WARN,auth,slow response
+1338,2026-03-17 02:22:26,INFO,gateway,cache refreshed
+1339,2026-03-23 00:48:03,WARN,payment,disk usage high
+1340,2026-03-26 20:08:00,WARN,cart,slow response
+1341,2026-03-11 18:05:07,INFO,payment,user login ok
+1342,2026-03-23 20:48:08,ERROR,gateway,timeout waiting for lock
+1343,2026-03-15 15:55:47,INFO,payment,cache refreshed
+1344,2026-03-22 18:52:20,INFO,search,user login ok
+1345,2026-03-14 11:11:25,INFO,cart,user login ok
+1346,2026-03-01 17:41:39,INFO,payment,request completed
+1347,2026-03-07 08:44:54,WARN,payment,slow response
+1348,2026-03-20 13:38:16,WARN,payment,slow response
+1349,2026-03-06 18:07:00,INFO,gateway,session started
+1350,2026-03-27 21:31:07,WARN,payment,disk usage high
+1351,2026-03-07 08:18:47,INFO,cart,session started
+1352,2026-03-14 06:38:13,INFO,search,user login ok
+1353,2026-03-06 13:50:09,WARN,auth,retry scheduled
+1354,2026-03-08 19:28:58,INFO,payment,cache refreshed
+1355,2026-03-22 20:29:05,ERROR,auth,timeout waiting for lock
+1356,2026-03-28 10:44:25,INFO,payment,session started
+1357,2026-03-24 19:16:04,WARN,auth,disk usage high
+1358,2026-03-02 10:59:15,INFO,cart,cache refreshed
+1359,2026-03-22 19:45:47,ERROR,auth,connection timeout
+1360,2026-03-17 19:24:19,INFO,cart,cache refreshed
+1361,2026-03-18 01:37:11,INFO,search,user login ok
+1362,2026-03-16 10:56:29,ERROR,payment,connection timeout
+1363,2026-03-23 16:27:09,INFO,search,request completed
+1364,2026-03-02 04:31:55,INFO,search,cache refreshed
+1365,2026-03-10 08:39:53,WARN,search,disk usage high
+1366,2026-03-14 05:20:47,INFO,cart,user login ok
+1367,2026-03-28 21:40:51,ERROR,cart,connection timeout
+1368,2026-03-05 01:14:11,INFO,auth,session started
+1369,2026-03-06 22:29:27,INFO,auth,session started
+1370,2026-03-15 11:45:35,INFO,cart,session started
+1371,2026-03-04 23:55:09,WARN,auth,retry scheduled
+1372,2026-03-07 09:11:53,INFO,payment,cache refreshed
+1373,2026-03-22 18:13:37,ERROR,auth,null pointer exception
+1374,2026-03-03 07:49:31,WARN,auth,retry scheduled
+1375,2026-03-10 21:43:07,INFO,cart,cache refreshed
+1376,2026-03-04 10:09:01,ERROR,auth,timeout waiting for lock
+1377,2026-03-15 20:17:38,WARN,auth,retry scheduled
+1378,2026-03-21 19:28:20,INFO,gateway,user login ok
+1379,2026-03-28 01:51:41,INFO,search,cache refreshed
+1380,2026-03-24 02:35:38,INFO,cart,request completed
+1381,2026-03-09 05:15:49,WARN,cart,slow response
+1382,2026-03-28 06:10:24,INFO,cart,cache refreshed
+1383,2026-03-04 09:31:51,INFO,cart,cache refreshed
+1384,2026-03-05 11:42:06,ERROR,search,null pointer exception
+1385,2026-03-15 12:30:17,WARN,gateway,disk usage high
+1386,2026-03-03 13:51:23,WARN,gateway,slow response
+1387,2026-03-21 13:05:02,WARN,gateway,retry scheduled
+1388,2026-03-22 07:41:43,WARN,payment,retry scheduled
+1389,2026-03-21 20:33:05,ERROR,search,timeout waiting for lock
+1390,2026-03-03 15:19:09,WARN,payment,disk usage high
+1391,2026-03-27 07:33:27,INFO,search,request completed
+1392,2026-03-03 01:32:06,ERROR,gateway,timeout waiting for lock
+1393,2026-03-04 14:42:46,WARN,gateway,retry scheduled
+1394,2026-03-09 18:05:49,INFO,gateway,request completed
+1395,2026-03-24 21:29:11,INFO,payment,session started
+1396,2026-03-03 13:56:45,INFO,search,cache refreshed
+1397,2026-03-24 14:48:42,ERROR,cart,database unavailable
+1398,2026-03-28 05:13:11,INFO,auth,cache refreshed
+1399,2026-03-14 17:01:00,INFO,cart,request completed
+1400,2026-03-06 20:30:29,INFO,cart,session started
+1401,2026-03-20 19:23:44,INFO,cart,cache refreshed
+1402,2026-03-05 04:00:12,INFO,auth,request completed
+1403,2026-03-28 00:13:30,INFO,payment,user login ok
+1404,2026-03-27 20:54:50,WARN,gateway,slow response
+1405,2026-03-10 14:09:30,INFO,cart,request completed
+1406,2026-03-06 04:47:44,INFO,cart,session started
+1407,2026-03-01 14:37:15,WARN,payment,retry scheduled
+1408,2026-03-27 12:03:21,ERROR,auth,connection timeout
+1409,2026-03-14 15:47:37,WARN,gateway,disk usage high
+1410,2026-03-10 01:31:25,ERROR,cart,timeout waiting for lock
+1411,2026-03-23 01:33:01,INFO,cart,cache refreshed
+1412,2026-03-03 08:57:41,ERROR,cart,timeout waiting for lock
+1413,2026-03-16 19:41:22,INFO,cart,session started
+1414,2026-03-06 09:46:12,INFO,cart,cache refreshed
+1415,2026-03-08 16:14:37,WARN,search,disk usage high
+1416,2026-03-05 09:46:45,WARN,cart,retry scheduled
+1417,2026-03-26 15:51:54,INFO,payment,user login ok
+1418,2026-03-23 23:05:42,INFO,cart,user login ok
+1419,2026-03-07 05:38:31,INFO,auth,session started
+1420,2026-03-10 07:13:35,WARN,auth,slow response
+1421,2026-03-09 11:43:10,INFO,payment,request completed
+1422,2026-03-11 13:07:39,INFO,payment,request completed
+1423,2026-03-08 15:16:21,ERROR,search,connection timeout
+1424,2026-03-09 04:54:44,ERROR,gateway,connection timeout
+1425,2026-03-15 14:53:48,INFO,auth,request completed
+1426,2026-03-20 03:52:35,ERROR,auth,connection timeout
+1427,2026-03-21 03:55:13,INFO,search,user login ok
+1428,2026-03-23 14:48:32,INFO,cart,request completed
+1429,2026-03-21 11:21:52,INFO,payment,request completed
+1430,2026-03-15 13:49:49,INFO,auth,user login ok
+1431,2026-03-11 09:32:10,WARN,auth,retry scheduled
+1432,2026-03-23 13:23:40,INFO,payment,user login ok
+1433,2026-03-14 07:08:51,ERROR,cart,timeout waiting for lock
+1434,2026-03-15 16:50:43,WARN,search,slow response
+1435,2026-03-05 00:45:51,WARN,gateway,slow response
+1436,2026-03-11 10:25:49,INFO,payment,session started
+1437,2026-03-13 01:42:59,INFO,payment,request completed
+1438,2026-03-10 13:25:56,ERROR,gateway,database unavailable
+1439,2026-03-12 00:52:17,INFO,gateway,user login ok
+1440,2026-03-15 20:13:56,WARN,gateway,disk usage high
+1441,2026-03-21 14:44:22,ERROR,cart,null pointer exception
+1442,2026-03-03 01:34:21,INFO,cart,user login ok
+1443,2026-03-18 09:13:05,ERROR,gateway,database unavailable
+1444,2026-03-11 20:10:01,ERROR,auth,database unavailable
+1445,2026-03-27 09:46:27,INFO,gateway,request completed
+1446,2026-03-27 11:16:40,INFO,gateway,cache refreshed
+1447,2026-03-02 20:07:28,INFO,search,request completed
+1448,2026-03-11 07:51:47,WARN,gateway,disk usage high
+1449,2026-03-28 19:14:22,ERROR,search,database unavailable
+1450,2026-03-22 04:45:24,ERROR,gateway,null pointer exception
+1451,2026-03-11 16:37:12,INFO,search,session started
+1452,2026-03-05 22:27:53,INFO,cart,request completed
+1453,2026-03-02 13:56:08,INFO,cart,user login ok
+1454,2026-03-03 11:43:33,WARN,cart,disk usage high
+1455,2026-03-17 12:55:16,ERROR,gateway,timeout waiting for lock
+1456,2026-03-15 22:59:31,WARN,cart,slow response
+1457,2026-03-17 04:31:45,INFO,cart,user login ok
+1458,2026-03-28 16:07:44,ERROR,payment,timeout waiting for lock
+1459,2026-03-02 23:10:35,WARN,search,slow response
+1460,2026-03-28 13:07:07,ERROR,search,database unavailable
+1461,2026-03-17 04:07:23,INFO,search,cache refreshed
+1462,2026-03-10 15:01:50,INFO,payment,user login ok
+1463,2026-03-14 01:59:57,ERROR,search,database unavailable
+1464,2026-03-06 23:31:00,INFO,auth,cache refreshed
+1465,2026-03-28 01:26:30,INFO,gateway,cache refreshed
+1466,2026-03-15 10:50:24,ERROR,cart,null pointer exception
+1467,2026-03-17 20:29:48,INFO,cart,session started
+1468,2026-03-28 23:20:05,INFO,gateway,session started
+1469,2026-03-08 12:21:34,WARN,auth,disk usage high
+1470,2026-03-24 08:41:05,WARN,payment,disk usage high
+1471,2026-03-19 20:50:49,INFO,search,request completed
+1472,2026-03-03 06:39:34,ERROR,gateway,connection timeout
+1473,2026-03-17 06:48:30,ERROR,gateway,connection timeout
+1474,2026-03-22 17:11:01,INFO,search,user login ok
+1475,2026-03-27 22:53:56,INFO,gateway,session started
+1476,2026-03-26 17:38:20,INFO,cart,request completed
+1477,2026-03-28 00:21:27,WARN,payment,retry scheduled
+1478,2026-03-28 16:20:24,INFO,search,request completed
+1479,2026-03-04 17:10:18,INFO,payment,user login ok
+1480,2026-03-25 02:09:19,INFO,cart,user login ok
+1481,2026-03-20 10:11:01,INFO,auth,cache refreshed
+1482,2026-03-04 10:09:26,WARN,search,retry scheduled
+1483,2026-03-27 03:03:12,WARN,payment,disk usage high
+1484,2026-03-08 15:32:48,ERROR,gateway,timeout waiting for lock
+1485,2026-03-09 01:20:29,INFO,gateway,session started
+1486,2026-03-16 00:26:40,INFO,payment,request completed
+1487,2026-03-18 18:43:06,INFO,payment,user login ok
+1488,2026-03-19 13:28:05,INFO,gateway,user login ok
+1489,2026-03-12 17:10:50,INFO,payment,session started
+1490,2026-03-15 01:00:52,ERROR,cart,database unavailable
+1491,2026-03-01 01:59:58,INFO,cart,cache refreshed
+1492,2026-03-09 21:24:22,ERROR,payment,database unavailable
+1493,2026-03-06 23:34:36,INFO,auth,cache refreshed
+1494,2026-03-13 22:07:53,INFO,payment,cache refreshed
+1495,2026-03-07 19:32:51,WARN,search,disk usage high
+1496,2026-03-21 08:48:45,INFO,cart,cache refreshed
+1497,2026-03-22 10:21:13,INFO,cart,cache refreshed
+1498,2026-03-23 04:41:59,INFO,auth,session started
+1499,2026-03-01 21:11:26,INFO,gateway,session started
+1500,2026-03-18 02:50:56,WARN,auth,disk usage high
